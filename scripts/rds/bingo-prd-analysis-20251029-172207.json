@@ -1,0 +1,387 @@
+{
+  "analysis_time": "2025-10-29T17:22:07.562362",
+  "db_instance": "bingo-prd",
+  "max_connections": 901,
+  "current_alarm": 675,
+  "overall_stats": {
+    "total_datapoints": 1008,
+    "avg_connections": 148.13839285714286,
+    "median_connections": 148.75,
+    "min_connections": 123.0,
+    "max_connections": 182.0,
+    "stddev": 7.472930573538742,
+    "p50": 148.75,
+    "p75": 153.475,
+    "p90": 156.8,
+    "p95": 158.65499999999997,
+    "p99": 167.7
+  },
+  "daily_stats": {
+    "2025-10-22": {
+      "avg": 154.4125,
+      "max": 182.0,
+      "min": 150.2,
+      "peak_time": "22:22:00",
+      "datapoints": 40,
+      "weekday": "Wednesday"
+    },
+    "2025-10-23": {
+      "avg": 146.06319444444443,
+      "max": 175.0,
+      "min": 130.5,
+      "peak_time": "21:32:00",
+      "datapoints": 144,
+      "weekday": "Thursday"
+    },
+    "2025-10-24": {
+      "avg": 146.99444444444444,
+      "max": 173.0,
+      "min": 129.6,
+      "peak_time": "00:32:00",
+      "datapoints": 144,
+      "weekday": "Friday"
+    },
+    "2025-10-25": {
+      "avg": 151.0625,
+      "max": 165.0,
+      "min": 142.6,
+      "peak_time": "13:12:00",
+      "datapoints": 144,
+      "weekday": "Saturday"
+    },
+    "2025-10-26": {
+      "avg": 145.55208333333334,
+      "max": 172.0,
+      "min": 133.9,
+      "peak_time": "23:52:00",
+      "datapoints": 144,
+      "weekday": "Sunday"
+    },
+    "2025-10-27": {
+      "avg": 154.15277777777777,
+      "max": 169.0,
+      "min": 145.1,
+      "peak_time": "16:52:00",
+      "datapoints": 144,
+      "weekday": "Monday"
+    },
+    "2025-10-28": {
+      "avg": 147.17291666666668,
+      "max": 176.0,
+      "min": 129.9,
+      "peak_time": "02:12:00",
+      "datapoints": 144,
+      "weekday": "Tuesday"
+    },
+    "2025-10-29": {
+      "avg": 142.72403846153847,
+      "max": 172.0,
+      "min": 131.6,
+      "peak_time": "02:02:00",
+      "datapoints": 104,
+      "weekday": "Wednesday"
+    }
+  },
+  "hourly_stats": {
+    "0": {
+      "avg": 154.83333333333334,
+      "max": 173.0,
+      "min": 148.1,
+      "datapoints": 42
+    },
+    "1": {
+      "avg": 151.42857142857142,
+      "max": 167.0,
+      "min": 145.9,
+      "datapoints": 42
+    },
+    "2": {
+      "avg": 149.82142857142858,
+      "max": 176.0,
+      "min": 138.6,
+      "datapoints": 42
+    },
+    "3": {
+      "avg": 148.07380952380953,
+      "max": 164.0,
+      "min": 138.4,
+      "datapoints": 42
+    },
+    "4": {
+      "avg": 144.7095238095238,
+      "max": 162.0,
+      "min": 134.1,
+      "datapoints": 42
+    },
+    "5": {
+      "avg": 142.26190476190476,
+      "max": 161.0,
+      "min": 134.5,
+      "datapoints": 42
+    },
+    "6": {
+      "avg": 139.86190476190475,
+      "max": 155.0,
+      "min": 132.2,
+      "datapoints": 42
+    },
+    "7": {
+      "avg": 140.22380952380954,
+      "max": 160.0,
+      "min": 129.9,
+      "datapoints": 42
+    },
+    "8": {
+      "avg": 142.32619047619048,
+      "max": 166.0,
+      "min": 132.1,
+      "datapoints": 42
+    },
+    "9": {
+      "avg": 144.4404761904762,
+      "max": 166.0,
+      "min": 131.6,
+      "datapoints": 42
+    },
+    "10": {
+      "avg": 146.44761904761904,
+      "max": 167.0,
+      "min": 130.5,
+      "datapoints": 42
+    },
+    "11": {
+      "avg": 146.95714285714286,
+      "max": 167.0,
+      "min": 134.0,
+      "datapoints": 42
+    },
+    "12": {
+      "avg": 147.93809523809523,
+      "max": 164.0,
+      "min": 135.4,
+      "datapoints": 42
+    },
+    "13": {
+      "avg": 148.31190476190477,
+      "max": 165.0,
+      "min": 135.7,
+      "datapoints": 42
+    },
+    "14": {
+      "avg": 148.70714285714286,
+      "max": 165.0,
+      "min": 135.3,
+      "datapoints": 42
+    },
+    "15": {
+      "avg": 150.0952380952381,
+      "max": 165.0,
+      "min": 137.4,
+      "datapoints": 42
+    },
+    "16": {
+      "avg": 149.58095238095237,
+      "max": 169.0,
+      "min": 138.8,
+      "datapoints": 42
+    },
+    "17": {
+      "avg": 149.13571428571427,
+      "max": 166.0,
+      "min": 129.6,
+      "datapoints": 42
+    },
+    "18": {
+      "avg": 149.07380952380953,
+      "max": 165.0,
+      "min": 132.2,
+      "datapoints": 42
+    },
+    "19": {
+      "avg": 149.82619047619048,
+      "max": 167.0,
+      "min": 133.9,
+      "datapoints": 42
+    },
+    "20": {
+      "avg": 151.11190476190475,
+      "max": 167.0,
+      "min": 136.4,
+      "datapoints": 42
+    },
+    "21": {
+      "avg": 152.4452380952381,
+      "max": 175.0,
+      "min": 135.3,
+      "datapoints": 42
+    },
+    "22": {
+      "avg": 153.92142857142858,
+      "max": 182.0,
+      "min": 144.8,
+      "datapoints": 42
+    },
+    "23": {
+      "avg": 153.78809523809522,
+      "max": 175.0,
+      "min": 144.1,
+      "datapoints": 42
+    }
+  },
+  "weekly_stats": {
+    "weekday_avg": 148.07083333333333,
+    "weekend_avg": 148.30729166666666,
+    "weekday_max": 170.1,
+    "weekend_max": 159.4
+  },
+  "anomalies": [
+    {
+      "timestamp": "2025-10-23 21:12:00",
+      "connections": 164.5,
+      "deviation": 16.36160714285714
+    },
+    {
+      "timestamp": "2025-10-23 21:22:00",
+      "connections": 168.3,
+      "deviation": 20.16160714285715
+    },
+    {
+      "timestamp": "2025-10-23 21:32:00",
+      "connections": 168.8,
+      "deviation": 20.66160714285715
+    },
+    {
+      "timestamp": "2025-10-23 21:42:00",
+      "connections": 166.5,
+      "deviation": 18.36160714285714
+    },
+    {
+      "timestamp": "2025-10-23 21:52:00",
+      "connections": 165.5,
+      "deviation": 17.36160714285714
+    },
+    {
+      "timestamp": "2025-10-23 22:02:00",
+      "connections": 169.5,
+      "deviation": 21.36160714285714
+    },
+    {
+      "timestamp": "2025-10-23 22:12:00",
+      "connections": 165.7,
+      "deviation": 17.561607142857127
+    },
+    {
+      "timestamp": "2025-10-23 22:22:00",
+      "connections": 164.3,
+      "deviation": 16.16160714285715
+    },
+    {
+      "timestamp": "2025-10-23 22:32:00",
+      "connections": 168.0,
+      "deviation": 19.86160714285714
+    },
+    {
+      "timestamp": "2025-10-23 22:42:00",
+      "connections": 167.9,
+      "deviation": 19.761607142857144
+    },
+    {
+      "timestamp": "2025-10-23 22:52:00",
+      "connections": 167.7,
+      "deviation": 19.561607142857127
+    },
+    {
+      "timestamp": "2025-10-23 23:02:00",
+      "connections": 165.6,
+      "deviation": 17.461607142857133
+    },
+    {
+      "timestamp": "2025-10-23 23:12:00",
+      "connections": 168.1,
+      "deviation": 19.961607142857133
+    },
+    {
+      "timestamp": "2025-10-23 23:22:00",
+      "connections": 170.1,
+      "deviation": 21.961607142857133
+    },
+    {
+      "timestamp": "2025-10-23 23:32:00",
+      "connections": 169.2,
+      "deviation": 21.061607142857127
+    },
+    {
+      "timestamp": "2025-10-23 23:42:00",
+      "connections": 166.0,
+      "deviation": 17.86160714285714
+    },
+    {
+      "timestamp": "2025-10-23 23:52:00",
+      "connections": 164.2,
+      "deviation": 16.061607142857127
+    },
+    {
+      "timestamp": "2025-10-24 00:02:00",
+      "connections": 165.2,
+      "deviation": 17.061607142857127
+    },
+    {
+      "timestamp": "2025-10-24 00:12:00",
+      "connections": 166.0,
+      "deviation": 17.86160714285714
+    },
+    {
+      "timestamp": "2025-10-24 00:22:00",
+      "connections": 167.7,
+      "deviation": 19.561607142857127
+    },
+    {
+      "timestamp": "2025-10-24 00:32:00",
+      "connections": 169.6,
+      "deviation": 21.461607142857133
+    },
+    {
+      "timestamp": "2025-10-24 00:42:00",
+      "connections": 166.8,
+      "deviation": 18.66160714285715
+    },
+    {
+      "timestamp": "2025-10-24 00:52:00",
+      "connections": 164.4,
+      "deviation": 16.261607142857144
+    },
+    {
+      "timestamp": "2025-10-27 16:02:00",
+      "connections": 163.6,
+      "deviation": 15.461607142857133
+    },
+    {
+      "timestamp": "2025-10-27 16:52:00",
+      "connections": 163.5,
+      "deviation": 15.361607142857139
+    }
+  ],
+  "alarm_percentile": 100.0,
+  "recommendations": {
+    "P0_Critical": {
+      "threshold": 184,
+      "percentage": 20.5,
+      "description": "緊急告警 - 接近最大容量，需立即處理"
+    },
+    "P1_High": {
+      "threshold": 166,
+      "percentage": 18.5,
+      "description": "高優先級告警 - 連接數異常高，需要關注"
+    },
+    "P2_Medium": {
+      "threshold": 172,
+      "percentage": 19.1,
+      "description": "中優先級告警 - 連接數偏高，建議檢查"
+    },
+    "P3_Warning": {
+      "threshold": 184,
+      "percentage": 20.4,
+      "description": "低優先級告警 - 預警通知"
+    }
+  }
+}

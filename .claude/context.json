@@ -1,0 +1,84 @@
+{
+  "project": {
+    "name": "aws-gemini-manager",
+    "description": "AWS resource management tool using gemini-pro_ck profile",
+    "type": "aws-automation",
+    "version": "1.0.0"
+  },
+  "aws": {
+    "profile": "gemini-pro_ck",
+    "defaultRegion": "us-east-1",
+    "services": [
+      "s3",
+      "ec2",
+      "rds",
+      "cloudwatch",
+      "iam",
+      "lambda"
+    ]
+  },
+  "stack": {
+    "cli": ["aws-cli", "bash"],
+    "languages": ["node.js", "python", "bash"],
+    "tools": ["aws-sdk", "boto3"]
+  },
+  "directories": {
+    "scripts": "Management automation scripts",
+    "config": "Configuration files",
+    "logs": "Operation logs",
+    "docs": "Documentation"
+  },
+  "commands": {
+    "verify_profile": "aws --profile gemini-pro_ck sts get-caller-identity",
+    "list_s3": "aws --profile gemini-pro_ck s3 ls",
+    "list_ec2": "aws --profile gemini-pro_ck ec2 describe-instances",
+    "list_rds": "aws --profile gemini-pro_ck rds describe-db-instances"
+  },
+  "environment": {
+    "required": [
+      "AWS_PROFILE=gemini-pro_ck"
+    ],
+    "optional": [
+      "AWS_DEFAULT_REGION",
+      "AWS_DEFAULT_OUTPUT"
+    ]
+  },
+  "security": {
+    "profile_required": true,
+    "mfa_enabled": false,
+    "credential_location": "~/.aws/credentials"
+  },
+  "development": {
+    "workflow": [
+      "Verify AWS profile is set to gemini-pro_ck",
+      "Test scripts in development environment first",
+      "Log all operations",
+      "Document new scripts in CLAUDE.md"
+    ]
+  },
+  "implementation_strategy": {
+    "approach": "hybrid",
+    "shell_script_use_cases": [
+      "Simple resource queries (list EC2, RDS, S3)",
+      "One-time operations (start/stop instances)",
+      "Quick validation and testing",
+      "Single command tasks"
+    ],
+    "boto3_use_cases": [
+      "Complex data processing and analysis",
+      "Error handling and retry logic needed",
+      "Batch operations on multiple resources",
+      "Integration with other systems or APIs",
+      "Report generation or visualization"
+    ]
+  },
+  "notes": {
+    "claude_code": [
+      "Always use --profile gemini-pro_ck in AWS CLI commands",
+      "Configure AWS SDK with gemini-pro_ck profile",
+      "Never commit AWS credentials",
+      "Include error handling in all scripts",
+      "Use hybrid approach: AWS CLI for simple tasks, boto3 for complex operations"
+    ]
+  }
+}
