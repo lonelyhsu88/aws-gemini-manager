@@ -1,0 +1,8 @@
+Instance ID: i-0bfb84764c5c18939
+Region: ap-south-1
+Public IP: 43.204.238.217
+Key: /Users/lonelyhsu/.ssh/game-test-mumbai-key.pem
+Created: Fri Oct 31 09:18:44 CST 2025
+
+Connect: ssh -i /Users/lonelyhsu/.ssh/game-test-mumbai-key.pem ubuntu@43.204.238.217
+Terminate: aws --profile gemini-pro_ck --region ap-south-1 ec2 terminate-instances --instance-ids i-0bfb84764c5c18939

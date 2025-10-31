@@ -1,0 +1,7 @@
+遊戲名稱,首次訪問(秒),第2次訪問(秒),改善(%),緩存率(%),節省時間(秒)
+StandAloneLimboGR,27.79,26.85,3.4,79.8,0.94
+StandAloneLuckyDropOLY,28.39,26.67,6.1,86.0,1.72
+StandAloneMinesRaider,27.72,26.82,3.2,82.7,0.90
+StandAlonePlinkoCL,27.73,28.87,-4.1,88.1,-1.13
+StandAlonePlinkoGR,27.57,26.73,3.0,86.0,0.83
+平均,27.84,27.19,2.3,84.5,0.65
