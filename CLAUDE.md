@@ -84,6 +84,10 @@ aws-gemini-manager/
 ├── README.md                           # Project documentation
 ├── CLOUDWATCH_BINGO_STRESS_ANALYSIS.md # CloudWatch metrics analysis
 ├── check_metrics_activity.py           # Python script for metric activity analysis
+├── cloudformation/                     # CloudFormation templates
+│   └── rds/                           # RDS-related templates
+│       ├── postgresql14-monitoring-params.yaml
+│       └── README.md
 ├── scripts/                            # Management scripts
 │   ├── s3/                            # S3 management scripts
 │   ├── ec2/                           # EC2 management scripts
@@ -139,8 +143,70 @@ aws --profile gemini-pro_ck rds create-db-snapshot --db-instance-identifier mydb
 - `scripts/rds/check-connections.sh` - 快速檢查當前連接數
 - `scripts/rds/check-connections-peak.sh` - 詳細連接數分析（含24小時峰值）
 - `scripts/rds/list-instances.sh` - 列出所有 RDS 實例
+- `scripts/rds/check-parameter-group-history.sh` - 檢查參數組異動歷史
+- `scripts/rds/check-parameter-group-binding.sh` - 檢查參數組綁定歷史
+- `scripts/rds/compare-parameter-groups.py` - 比較自定義與預設參數組差異
+- `scripts/rds/analyze-high-load.py` - 分析實例高負載問題（含 Replica Lag、IOPS、CPU 等）
+- `scripts/rds/check-reboot-history.py` - 查詢實例重啟歷史（CloudTrail 90天記錄）
+
+**參數組分析**:
+```bash
+# 比較參數組差異
+python3 scripts/rds/compare-parameter-groups.py
+
+# 查看完整比較報告
+cat scripts/rds/PARAMETER_GROUP_COMPARISON_REPORT.md
+```
+
+**高負載分析**:
+```bash
+# 分析單個實例
+python3 scripts/rds/analyze-high-load.py <instance-id>
+
+# 比較 Replica 與主實例
+python3 scripts/rds/analyze-high-load.py <replica-id> <primary-id>
+
+# 範例：分析 bingo-prd-replica1
+python3 scripts/rds/analyze-high-load.py bingo-prd-replica1 bingo-prd
+```
+
+**重啟歷史查詢**:
+```bash
+# 查詢所有 bingo-prd-* 實例重啟記錄
+python3 scripts/rds/check-reboot-history.py bingo-prd
+
+# 查詢特定實例
+python3 scripts/rds/check-reboot-history.py <instance-name>
+
+# 查詢所有實例
+python3 scripts/rds/check-reboot-history.py
+```
 
 詳細說明請參考: `scripts/rds/README.md`
+
+### CloudFormation Management
+```bash
+# List all CloudFormation stacks
+aws --profile gemini-pro_ck cloudformation describe-stacks --query 'Stacks[*].[StackName,StackStatus,CreationTime]' --output table
+
+# Get template for existing stack
+aws --profile gemini-pro_ck cloudformation get-template --stack-name postgresql14-monitoring-params --query 'TemplateBody' --output text
+
+# Create/Update stack from template
+aws --profile gemini-pro_ck cloudformation create-stack --stack-name postgresql14-monitoring-params --template-body file://cloudformation/rds/postgresql14-monitoring-params.yaml
+
+# View stack events
+aws --profile gemini-pro_ck cloudformation describe-stack-events --stack-name postgresql14-monitoring-params --max-items 20
+```
+
+**CloudFormation Templates**:
+- `cloudformation/rds/postgresql14-monitoring-params.yaml` - PostgreSQL 14 監控參數組
+  - Stack Name: `postgresql14-monitoring-params`
+  - Region: ap-east-1 (香港)
+  - Created: 2024-11-13
+  - 用於所有 bingo-prd-* 和 pgsqlrel 實例
+
+詳細說明請參考: `cloudformation/rds/README.md`
 
 ### CloudWatch Management
 ```bash
