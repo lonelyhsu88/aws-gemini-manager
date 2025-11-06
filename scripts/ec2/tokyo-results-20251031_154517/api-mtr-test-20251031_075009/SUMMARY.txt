@@ -1,0 +1,17 @@
+╔════════════════════════════════════════════════════════╗
+║         API 延遲 + MTR 測試結果摘要                     ║
+╚════════════════════════════════════════════════════════╝
+
+測試時間: Fri Oct 31 07:52:37 AM UTC 2025
+測試位置: Tokyo
+
+1. API 延遲測試結果:
+   ├─ ds-r.geminiservice.cc
+   ├─ gameinfo-api.geminiservice.cc
+   └─ wallet-api.geminiservice.cc
+
+2. MTR 測試結果: 詳見 api-mtr-test-20251031_075009/mtr-traceroute.txt
+3. 網路診斷結果: 詳見 api-mtr-test-20251031_075009/network-diagnostics.txt
+
+完整結果目錄: api-mtr-test-20251031_075009
+

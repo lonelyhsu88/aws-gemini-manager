@@ -1,0 +1,30 @@
+=== API 延遲測試結果 ===
+測試時間: Fri Oct 31 10:00:58 AM UTC 2025
+
+測試 API 1: https://ds-r.geminiservice.cc/domains?type=Hash
+----------------------------------------
+  請求 1: 0.173178s
+  請求 2: 0.180438s
+  請求 3: 0.168290s
+  請求 4: 0.177951s
+  請求 5: 0.148619s
+  平均延遲: 0.169695s
+
+測試 API 2: https://gameinfo-api.geminiservice.cc/api/v1/operator/url/gameInfo?productId=ELS&gameType=StandAlonePlinko
+----------------------------------------
+  請求 1: 0.409771s
+  請求 2: 0.153277s
+  請求 3: 0.404719s
+  請求 4: 0.168440s
+  請求 5: 0.163052s
+  平均延遲: 0.259852s
+
+測試 API 3: https://wallet-api.geminiservice.cc/api/v1/operator/game/launch (POST)
+----------------------------------------
+  請求 1: 0.431036s
+  請求 2: 0.465679s
+  請求 3: 0.424568s
+  請求 4: 0.441530s
+  請求 5: 0.431380s
+  平均延遲: 0.438838s
+

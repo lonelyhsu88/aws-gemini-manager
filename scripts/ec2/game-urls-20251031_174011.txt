@@ -1,0 +1,5 @@
+MagicBingo|https://www.shuangzi6688.com/Bingo/MagicBingo/?Lang=zh-CN&ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33a1dc119c24ec84bb4e7b941dabb278d5
+StandAloneHilo|https://www.shuangzi6688.com/Hash/StandAloneHilo/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cb0f84694770e53488fa96b97f4dd4c193618b387efbd85573d928b8b340159cdc
+StandAloneMines|https://www.shuangzi6688.com/Hash/StandAloneMines/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cb0b5c0c6a9d6d42e54ee3f70e431f1acbb02965db0b6d346fc3ffc97d57cf09df
+MultiPlayerAviator|https://www.shuangzi6688.com/Hash/MultiPlayerAviator/?Lang=zh-CN&ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add2d7adce3f55f197afa275e85dc63a1ba444a95b967df9ea1402fc6850c589d0b
+StandAlonePlinko|https://www.shuangzi6688.com/Hash/StandAlonePlinko/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cb2ab2748bdac0d443d2c13c504370500b6c9adccea5ea885d314ae3f4b9f73545

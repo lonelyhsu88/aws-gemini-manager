@@ -1,0 +1,7 @@
+Game,FirstVisit(s),SecondVisit(s),Improvement(%),CacheHitRate(%),TimeSaved(s)
+MagicBingo,29.41,28.97,1.5,84.9,0.45
+MultiPlayerAviator,27.82,26.83,3.6,77.1,0.99
+StandAloneHilo,28.91,28.59,1.1,82.9,0.32
+StandAloneMines,30.46,28.89,5.2,85.4,1.57
+StandAlonePlinko,27.80,28.53,-2.6,88.1,-0.73
+平均,28.88,28.36,1.7,83.7,0.52

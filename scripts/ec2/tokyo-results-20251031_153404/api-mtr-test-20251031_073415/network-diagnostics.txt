@@ -1,0 +1,20 @@
+=== 網路診斷結果 ===
+測試時間: Fri Oct 31 07:36:41 AM UTC 2025
+
+DNS 解析速度測試:
+----------------------------------------
+  ds-r.geminiservice.cc: 30ms
+  gameinfo-api.geminiservice.cc: 32ms
+  wallet-api.geminiservice.cc: 22ms
+  www.shuangzi6688.com: 38ms
+
+連接性測試 (HTTPS):
+----------------------------------------
+  https://ds-r.geminiservice.cc: ✓ 可連接
+  https://gameinfo-api.geminiservice.cc: ✓ 可連接
+  https://wallet-api.geminiservice.cc: ✓ 可連接
+
+地理位置信息:
+----------------------------------------
+{status:successcountry:JapancountryCode:JPregion:13regionName:Tokyocity:Tokyozip:150-0002lat:35.6895lon:139.692timezone:Asia/Tokyoisp:Amazon.com Inc.org:AWS EC2 (ap-northeast-1)as:AS16509 Amazon.com Inc.query:43.207.144.229}
+

@@ -1,0 +1,1475 @@
+{
+  "url": "https://www.shuangzi6688.com/Hash/MultiPlayerCrash/?Lang=zh-CN&ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a",
+  "timestamp": "2025-10-31T07:49:14.421Z",
+  "mode": "double-visit",
+  "firstVisit": {
+    "totalTime": 27508,
+    "navigationTime": 2475,
+    "totalRequests": 142,
+    "totalSize": 8255754,
+    "totalEncodedSize": 10172,
+    "fromCacheCount": 0,
+    "failedRequests": 5,
+    "byType": {
+      "Other": {
+        "count": 14,
+        "size": 623120,
+        "encodedSize": 3342,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/Hash/MultiPlayerCrash/?Lang=zh-CN&ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a",
+            "size": 324,
+            "status": 200
+          },
+          {
+            "url": "https://www.clarity.ms/tag/tiqwucswa4?ref=npm",
+            "size": 699,
+            "status": 200
+          },
+          {
+            "url": "https://ds-r.geminiservice.cc/domains?type=Hash",
+            "size": 109,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-HS9NFED03C&cx=c&gtm=4e5at1",
+            "size": 392394,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/?ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a&Lang=zh-CN",
+            "size": 352,
+            "status": 200
+          },
+          {
+            "url": "https://analytics.google.com/g/collect?v=2&tid=G-HS9NFED03C&gtm=45je5at1v9209392845z89209385929za200zb9209385929zd9209385929&_p=1761896900302&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1264723785.1761896901&ecid=1834322053&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B99.0.0.0%7CChromium%3B142.0.7444.59&uamb=0&uam=&uap=Linux&uapv=&uaw=0&are=1&frm=0&pscdl=&_s=1&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616986~115938466~115938468~116217636~116217638~116253087~116253089&sid=1761896900&sct=1&seg=0&dl=https%3A%2F%2Fwww.shuangzi6688.com%2FHash%2FMultiPlayerCrash%2F%3FLang%3Dzh-CN%26ProductId%3DELS%26Token%3Df8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=711",
+            "size": 552,
+            "status": 204
+          },
+          {
+            "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-HS9NFED03C&cid=1264723785.1761896901&gtm=45je5at1v9209392845z89209385929za200zb9209385929zd9209385929&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616986~115938466~115938468~116217636~116217638~116253087~116253089",
+            "size": 552,
+            "status": 204
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/?ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a&Lang=zh-CN",
+            "size": 7343,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/52EN4-PFEYY-L4RH2-822HZ-XLQJY",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/md5.txt?ver=1761896902848",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/md5.txt?ver=1761896904838",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b2/b2ebe73e-1609-489b-8bb9-6f48f138a7b4.11eae.plist",
+            "size": 3623,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/26/26489b75-d8d1-484e-a0e4-1d1f99285aab.7ed66.plist",
+            "size": 3596,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/6e/6e02e0ae-487f-4830-afaf-51041295b6a0.32dbf.plist",
+            "size": 3625,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 14,
+        "size": 7053007,
+        "encodedSize": 1895,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/assets/check_example-DBI48XH2.js",
+            "size": 4758,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/assets/Error-t0OlWNc8.js",
+            "size": 1689,
+            "status": 200
+          },
+          {
+            "url": "https://scripts.clarity.ms/0.8.38/clarity.js",
+            "size": 78710,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M72CW974",
+            "size": 305642,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/main.f210e.js",
+            "size": 3723,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/src/settings.6499a.js",
+            "size": 317,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/cocos2d-js-min.befae.js",
+            "size": 2039289,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/index.e1b93.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/index.42488.js",
+            "size": 4050564,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/index.3c4d6.js",
+            "size": 324078,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 58,
+        "size": 458410,
+        "encodedSize": 2072,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/config.json",
+            "size": 915,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=52EN4-PFEYY-L4RH2-822HZ-XLQJY&d=hash.shuangzi6688.com&t=5872990&v=1.720.0&sl=0&si=67336336-868f-402c-9cf5-99e46caf9739-t4zkcl&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022565",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/config.e1b93.json",
+            "size": 8911,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/config.42488.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/72/72e22729-6c0b-40a9-a636-b51862a2aac9.a20ff.json",
+            "size": 1285,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/dc/dc12275b-fff0-40b6-81ea-204e47b816c9.4b1e9.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/0e/0eb0e60d2.013bd.json",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/06/064b41d52.c6080.json",
+            "size": 1569,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/hashconfig.json?ver=prod-1.0.57",
+            "size": 167,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761896902444",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/botConfig/MultiPlayerCrash/robotConfig.json?ver=1761896902582",
+            "size": 1213,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/botConfig/MultiPlayerCrash/robotlist.json?ver=1761896902712",
+            "size": 64306,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/config.22c7a.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/MultiPlayerCrash/zh-CN.json?v=1761896903585",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/hash-common/zh-CN.json?v=1761896903581",
+            "size": 26,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/02/024c885e-c599-457d-84c0-8c6abb642343.bc8ac.json",
+            "size": 1696,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/80/80acedd4-36e9-4aca-ab98-2cff030fa9bb.37886.json",
+            "size": 203,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/c8/c87bb6b8-8288-4b73-8933-2990341dd791.71018.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/89/8970303d-820f-4cac-bc35-abf690deda2e.73e54.json",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/3d/3d318c00-987f-46ed-9141-ec97796a785b.a1215.json",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/96/96ca3284-5a74-40f4-9bd6-089cca23dcf2.b5e4a.json",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/46/464a34c0-1f69-4672-b638-c09d96547b0d.b9656.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/4e/4ecd17f8-255a-41ab-819a-9ba3b9042263.9bf9d.json",
+            "size": 200,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7e/7e09b7dc-33e2-4b25-9fdb-ffed20db5f0d.e6c6f.json",
+            "size": 202,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/1e/1e58a091-f015-4d07-8578-2c3860d513f8.07db2.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/af/afbd3e0c-1aff-46dc-9bd2-9d3bdf998644.dcf1e.json",
+            "size": 185,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f3/f3ef643f-1205-49ba-974d-bf888f53d4d5.95e68.json",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/48/48644b63-a76d-4435-b3e4-a3a6956cfd89.9b49f.json",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f7/f7dc2349-4409-4066-849e-555a5eb85f49.5aaed.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/8b/8b52da91-e1b2-41e8-a00c-3a32e185b495.27ef5.json",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f0/f027d03a-439e-4404-b93b-2a5845df887e.952bb.json",
+            "size": 196,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/3c/3c050bab-9506-4d9c-a4be-ab1bb3521adc.210b7.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/de/de679745-855f-450c-a078-4d617c0a7711.612ca.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7c/7cf16e73-0f6b-4f7b-84fd-64a4df24bdaa.6c028.json",
+            "size": 193,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ff/ff8d4273-a9f6-470e-a980-66b7b7e23dd2.d84fe.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/2a/2a3badbb-f8e3-43be-9237-83aff57631e9.4bcdb.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/e4/e46ab996-eb94-4e53-889f-d9639b606d7e.b65d4.json",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/08/089a8184d.ea240.json",
+            "size": 8516,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/config.3c4d6.json",
+            "size": 29,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/06/06dacee72.39cf8.json",
+            "size": 547,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 1284,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0b813df80.6fb7c.json",
+            "size": 4052,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/07/073e1da92.7b45f.json",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/f4/f43490d6-d2c0-4941-be9d-1e67b200ab72.8e66c.json",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/2f/2fb012f3-53a1-4137-9869-e15676565127.69864.json",
+            "size": 120,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/56/56163a20-3b28-4cf7-8120-ed6bf438e74e.f2ccb.json",
+            "size": 119,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761896905269",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/da/da493efd-94b4-4e6a-9cb1-b691a42a6807.20988.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/07/07f987f10.6b7e3.json",
+            "size": 932,
+            "status": 200
+          }
+        ]
+      },
+      "HTML": {
+        "count": 1,
+        "size": 302,
+        "encodedSize": 302,
+        "urls": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-M72CW974",
+            "size": 302,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 49,
+        "size": 101690,
+        "encodedSize": 2360,
+        "urls": [
+          {
+            "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=E55FE0FA56C2488BB2E56BD5C94A331E&MUID=173A8DF7ACD7624015BF9B61AD926334",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/favicon-96x96.92e00.png",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/43/439555ad-3ea9-4b7d-8362-8f0a78d3125d.a19ea.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/1c/1cba0f614.0ab7d.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/e2/e204cd25-102f-442b-bf68-3589b3af385d.d813d.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/0d/0df1266b-c5f9-4f70-a1be-5fc3c761683d.ba368.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/fd/fd4f1db6-e3d1-4321-b1da-1724e975854f.e1a10.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/8d/8d606bd8-252a-4b22-926b-0920c8bc846a.336df.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/4d/4d08c923-aeef-45dc-a6b2-544f71852f2b.67662.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f5/f545688a-13c6-43cf-9021-c7c30883d2f2.8febd.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/68/68e3cd7e-4d1b-444b-b752-94a0693b98a5.cdc14.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f9/f9b5ff13-1f76-4a0e-9424-6c62d927fbca.0d38e.png",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/cc/cc180dac-18c6-4778-82ff-ea3d1ba633c7.30867.png",
+            "size": 858,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/18/18f628ead.ecf37.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png",
+            "size": 1114,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1a/1a0ec76d0.3dfbb.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b0/b07e4fde-337e-4e20-8f0f-2dac9c3ded73.9d0f4.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/11/115f40a23.391fa.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1b/1b3452af5.a4ad1.png",
+            "size": 4891,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/1707f5fb0.d41e5.png",
+            "size": 2647,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/18/1822c6176.fb7db.png",
+            "size": 11868,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/17024bd91.a6c01.png",
+            "size": 48318,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/19/193748ab0.b885f.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/19/19759f06c.e01ed.png",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1d/1d4cbfecf.35b50.png",
+            "size": 2407,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/78/781acf24-d2fa-4029-b0f3-c8a7e6d7cbed.b94fa.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/d0/d0a82d39-bede-46c4-b698-c81ff0dedfff.841f5.png",
+            "size": 1439,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/17e8c73f1.a675e.png",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/ed/edd215b9-2796-4a05-aaf5-81f96c9281ce.17df6.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/d6/d6d3ca85-4681-47c1-b5dd-d036a9d39ea2.d55c2.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/61/617323dd-11f4-4dd3-8eec-0caf6b3b45b9.6d707.png",
+            "size": 1187,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png",
+            "size": 1082,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1e/1e4000f36.10bd6.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/98/98c8d766-cbb0-47c9-a498-ef5c4cb0a41c.75bb6.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/f9/f9d85fc1-17c6-4258-a330-0cdc4663f85e.90664.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/91/919e10ae-d206-4e73-bce0-4401a5b68117.253c3.png",
+            "size": 2633,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/2d/2d4ff017-c236-4e46-9ad9-12cdf8b669a7.253c3.png",
+            "size": 2633,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/90/90c87a73-a8a2-41b9-9828-6f3713cab3e3.6204b.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/56/567dcd80-8bf4-4535-8a5a-313f1caf078a.5f1d9.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/11/118fdfd41.9bf2d.png",
+            "size": 11884,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/f1/f17ca2c6-e78a-42af-89cb-1a6b39cab3e9.e4369.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/e2/e2c0d866-de30-420e-9e45-280a39ffc19c.cc1d8.png",
+            "size": 41,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 27,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 5,
+        "size": 16660,
+        "encodedSize": 174,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/51/51a1601e-9453-4ad7-b2ea-bad9cee9feb3.5e95b.mp3",
+            "size": 7858,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f4/f43490d6-d2c0-4941-be9d-1e67b200ab72.4af2e.mp3",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/da/da493efd-94b4-4e6a-9cb1-b691a42a6807.cf222.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/56/56163a20-3b28-4cf7-8120-ed6bf438e74e.97259.mp3",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/2f/2fb012f3-53a1-4137-9869-e15676565127.0680b.mp3",
+            "size": 8694,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "secondVisit": {
+    "totalTime": 26800,
+    "navigationTime": 1759,
+    "totalRequests": 128,
+    "totalSize": 8403287,
+    "totalEncodedSize": 1443003,
+    "fromCacheCount": 103,
+    "failedRequests": 0,
+    "byType": {
+      "Other": {
+        "count": 7,
+        "size": 213770,
+        "encodedSize": 58440,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/?ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a&Lang=zh-CN",
+            "size": 54,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/52EN4-PFEYY-L4RH2-822HZ-XLQJY",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/md5.txt?ver=1761896931304",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/md5.txt?ver=1761896932391",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/26/26489b75-d8d1-484e-a0e4-1d1f99285aab.7ed66.plist",
+            "size": 53,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/6e/6e02e0ae-487f-4830-afaf-51041295b6a0.32dbf.plist",
+            "size": 53,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b2/b2ebe73e-1609-489b-8bb9-6f48f138a7b4.11eae.plist",
+            "size": 3623,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 1138,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 10,
+        "size": 6662208,
+        "encodedSize": 1383099,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/src/settings.6499a.js",
+            "size": 317,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/main.f210e.js",
+            "size": 3723,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/cocos2d-js-min.befae.js",
+            "size": 2039289,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/index.e1b93.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/index.42488.js",
+            "size": 4050564,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/index.3c4d6.js",
+            "size": 324078,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 57,
+        "size": 901232,
+        "encodedSize": 326,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/config.e1b93.json",
+            "size": 8911,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/config.42488.json",
+            "size": 8334,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/72/72e22729-6c0b-40a9-a636-b51862a2aac9.a20ff.json",
+            "size": 1285,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/dc/dc12275b-fff0-40b6-81ea-204e47b816c9.4b1e9.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/0e/0eb0e60d2.013bd.json",
+            "size": 1142,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/06/064b41d52.c6080.json",
+            "size": 1569,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/hashconfig.json?ver=prod-1.0.57",
+            "size": 167,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=52EN4-PFEYY-L4RH2-822HZ-XLQJY&d=hash.shuangzi6688.com&t=5872990&v=1.720.0&sl=0&si=1f7d9a65-85cb-45e4-a6d1-dd1403ac08bf-t4zkdc&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022565",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761896928824",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/botConfig/MultiPlayerCrash/robotConfig.json?ver=1761896928968",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/botConfig/MultiPlayerCrash/robotlist.json?ver=1761896931162",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/config.22c7a.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/MultiPlayerCrash/zh-CN.json?v=1761896931886",
+            "size": 6214,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/hash-common/zh-CN.json?v=1761896931884",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/02/024c885e-c599-457d-84c0-8c6abb642343.bc8ac.json",
+            "size": 1696,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/3d/3d318c00-987f-46ed-9141-ec97796a785b.a1215.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/46/464a34c0-1f69-4672-b638-c09d96547b0d.b9656.json",
+            "size": 201,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/4e/4ecd17f8-255a-41ab-819a-9ba3b9042263.9bf9d.json",
+            "size": 200,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/80/80acedd4-36e9-4aca-ab98-2cff030fa9bb.37886.json",
+            "size": 203,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/89/8970303d-820f-4cac-bc35-abf690deda2e.73e54.json",
+            "size": 190,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/96/96ca3284-5a74-40f4-9bd6-089cca23dcf2.b5e4a.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7e/7e09b7dc-33e2-4b25-9fdb-ffed20db5f0d.e6c6f.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/1e/1e58a091-f015-4d07-8578-2c3860d513f8.07db2.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f3/f3ef643f-1205-49ba-974d-bf888f53d4d5.95e68.json",
+            "size": 196,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/af/afbd3e0c-1aff-46dc-9bd2-9d3bdf998644.dcf1e.json",
+            "size": 185,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/48/48644b63-a76d-4435-b3e4-a3a6956cfd89.9b49f.json",
+            "size": 197,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/8b/8b52da91-e1b2-41e8-a00c-3a32e185b495.27ef5.json",
+            "size": 186,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f7/f7dc2349-4409-4066-849e-555a5eb85f49.5aaed.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f0/f027d03a-439e-4404-b93b-2a5845df887e.952bb.json",
+            "size": 196,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/de/de679745-855f-450c-a078-4d617c0a7711.612ca.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/3c/3c050bab-9506-4d9c-a4be-ab1bb3521adc.210b7.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/2a/2a3badbb-f8e3-43be-9237-83aff57631e9.4bcdb.json",
+            "size": 196,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7c/7cf16e73-0f6b-4f7b-84fd-64a4df24bdaa.6c028.json",
+            "size": 193,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ff/ff8d4273-a9f6-470e-a980-66b7b7e23dd2.d84fe.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/e4/e46ab996-eb94-4e53-889f-d9639b606d7e.b65d4.json",
+            "size": 189,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/c8/c87bb6b8-8288-4b73-8933-2990341dd791.71018.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/08/089a8184d.ea240.json",
+            "size": 8516,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/config.3c4d6.json",
+            "size": 26752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/06/06dacee72.39cf8.json",
+            "size": 547,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 1284,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0b813df80.6fb7c.json",
+            "size": 4052,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/07/073e1da92.7b45f.json",
+            "size": 473444,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/f4/f43490d6-d2c0-4941-be9d-1e67b200ab72.8e66c.json",
+            "size": 118,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/2f/2fb012f3-53a1-4137-9869-e15676565127.69864.json",
+            "size": 120,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/56/56163a20-3b28-4cf7-8120-ed6bf438e74e.f2ccb.json",
+            "size": 119,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761896932765",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/import/da/da493efd-94b4-4e6a-9cb1-b691a42a6807.20988.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/import/07/07f987f10.6b7e3.json",
+            "size": 0,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 48,
+        "size": 494403,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 82,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/43/439555ad-3ea9-4b7d-8362-8f0a78d3125d.a19ea.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/1c/1cba0f614.0ab7d.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/e2/e204cd25-102f-442b-bf68-3589b3af385d.d813d.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/0d/0df1266b-c5f9-4f70-a1be-5fc3c761683d.ba368.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/fd/fd4f1db6-e3d1-4321-b1da-1724e975854f.e1a10.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/4d/4d08c923-aeef-45dc-a6b2-544f71852f2b.67662.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/8d/8d606bd8-252a-4b22-926b-0920c8bc846a.336df.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f5/f545688a-13c6-43cf-9021-c7c30883d2f2.8febd.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f9/f9b5ff13-1f76-4a0e-9424-6c62d927fbca.0d38e.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/68/68e3cd7e-4d1b-444b-b752-94a0693b98a5.cdc14.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/cc/cc180dac-18c6-4778-82ff-ea3d1ba633c7.30867.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/18/18f628ead.ecf37.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1a/1a0ec76d0.3dfbb.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png",
+            "size": 1114,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/b0/b07e4fde-337e-4e20-8f0f-2dac9c3ded73.9d0f4.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/d0/d0a82d39-bede-46c4-b698-c81ff0dedfff.841f5.png",
+            "size": 1439,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/11/115f40a23.391fa.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1b/1b3452af5.a4ad1.png",
+            "size": 4891,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/1707f5fb0.d41e5.png",
+            "size": 2647,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/18/1822c6176.fb7db.png",
+            "size": 11868,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/17024bd91.a6c01.png",
+            "size": 48318,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/19/193748ab0.b885f.png",
+            "size": 14493,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/19/19759f06c.e01ed.png",
+            "size": 15770,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1d/1d4cbfecf.35b50.png",
+            "size": 2407,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/78/781acf24-d2fa-4029-b0f3-c8a7e6d7cbed.b94fa.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/1e/1e4000f36.10bd6.png",
+            "size": 82931,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/17/17e8c73f1.a675e.png",
+            "size": 42114,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/ed/edd215b9-2796-4a05-aaf5-81f96c9281ce.17df6.png",
+            "size": 1038,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/d6/d6d3ca85-4681-47c1-b5dd-d036a9d39ea2.d55c2.png",
+            "size": 1047,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/61/617323dd-11f4-4dd3-8eec-0caf6b3b45b9.6d707.png",
+            "size": 1187,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png",
+            "size": 1050,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png",
+            "size": 1082,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/2d/2d4ff017-c236-4e46-9ad9-12cdf8b669a7.253c3.png",
+            "size": 2633,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/91/919e10ae-d206-4e73-bce0-4401a5b68117.253c3.png",
+            "size": 2633,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/90/90c87a73-a8a2-41b9-9828-6f3713cab3e3.6204b.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/56/567dcd80-8bf4-4535-8a5a-313f1caf078a.5f1d9.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/11/118fdfd41.9bf2d.png",
+            "size": 11884,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/f1/f17ca2c6-e78a-42af-89cb-1a6b39cab3e9.e4369.png",
+            "size": 164765,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/e2/e2c0d866-de30-420e-9e45-280a39ffc19c.cc1d8.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/f9/f9d85fc1-17c6-4258-a330-0cdc4663f85e.90664.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/main/native/98/98c8d766-cbb0-47c9-a498-ef5c4cb0a41c.75bb6.png",
+            "size": 62476,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 5,
+        "size": 129109,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/51/51a1601e-9453-4ad7-b2ea-bad9cee9feb3.5e95b.mp3",
+            "size": 7858,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/da/da493efd-94b4-4e6a-9cb1-b691a42a6807.cf222.mp3",
+            "size": 84554,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/56/56163a20-3b28-4cf7-8120-ed6bf438e74e.97259.mp3",
+            "size": 36697,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/2f/2fb012f3-53a1-4137-9869-e15676565127.0680b.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/MultiPlayerCrash/assets/resources/native/f4/f43490d6-d2c0-4941-be9d-1e67b200ab72.4af2e.mp3",
+            "size": 0,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "comparison": {
+    "timeImprovement": 2.573796713683292,
+    "timeSaved": 708,
+    "sizeReduction": -14086.030279197797,
+    "sizeSaved": -1432831,
+    "cacheHitRate": 80.46875
+  }
+}

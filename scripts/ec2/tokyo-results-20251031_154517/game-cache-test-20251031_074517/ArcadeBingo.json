@@ -1,0 +1,1415 @@
+{
+  "url": "https://www.shuangzi6688.com/Bingo/ArcadeBingo/?Lang=zh-CN&ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c",
+  "timestamp": "2025-10-31T07:50:06.869Z",
+  "mode": "double-visit",
+  "firstVisit": {
+    "totalTime": 27213,
+    "navigationTime": 2176,
+    "totalRequests": 133,
+    "totalSize": 5340620,
+    "totalEncodedSize": 7692,
+    "fromCacheCount": 0,
+    "failedRequests": 3,
+    "byType": {
+      "Other": {
+        "count": 8,
+        "size": 218107,
+        "encodedSize": 1650,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/Bingo/ArcadeBingo/?Lang=zh-CN&ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c",
+            "size": 324,
+            "status": 200
+          },
+          {
+            "url": "https://ds-r.geminiservice.cc/domains?type=Bingo",
+            "size": 105,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/?ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c&Lang=zh-CN",
+            "size": 21,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/?ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c&Lang=zh-CN",
+            "size": 7344,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/GHLLG-DXABY-LH7FL-6KNHY-7TNVC",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/md5.txt?ver=1761896953002",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/md5.txt?ver=1761896954776",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-webview/zh-CN/arcade-bingo/launch/?ver=1761896954782",
+            "size": 362,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 13,
+        "size": 4539934,
+        "encodedSize": 1496,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/assets/check_example-DBI48XH2.js",
+            "size": 4758,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/assets/Error-t0OlWNc8.js",
+            "size": 1689,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M72CW974",
+            "size": 356,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/src/settings.092d8.js",
+            "size": 318,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/main.bf742.js",
+            "size": 10251,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/cocos2d-js-min.2773f.js",
+            "size": 2039285,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/index.a38a9.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/index.6e22c.js",
+            "size": 1940438,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/index.1f072.js",
+            "size": 298602,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 69,
+        "size": 481479,
+        "encodedSize": 2752,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/config.json",
+            "size": 915,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/config.a38a9.json",
+            "size": 17459,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/config.6e22c.json",
+            "size": 2209,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=GHLLG-DXABY-LH7FL-6KNHY-7TNVC&d=www.shuangzi6688.com&t=5872990&v=1.720.0&sl=0&si=18a6554e-c5e1-458c-bd23-d485cd4d61a6-t4zkdz&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022461",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/03/03b224066.c0c7f.json",
+            "size": 1348,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/05/053583772.ab556.json",
+            "size": 1952,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/08/083870200.17136.json",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/bingoconfig.json?ver=prod-1.0.8",
+            "size": 107,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761896952749",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/config.22c7a.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bonus-bingo/zh-CN.json?v=1761896953774",
+            "size": 449,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bingo-common/zh-CN.json?v=1761896953773",
+            "size": 6657,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0b/0b0eba708.f3f2d.json",
+            "size": 29,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0d/0dac77c7d.138aa.json",
+            "size": 3649,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/dd/dd6a1dc0-9c83-4843-ad74-9c762170e2e5.60c99.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0f/0ffcf24af.2ab6a.json",
+            "size": 360,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/config.1f072.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/06/06dacee72.fc32d.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 23,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 29,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/0f/0ffc70b72.e55ad.json",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761896955425",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/04/049f84a04.c0c43.json",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/62/6279e339-4bee-437b-be9b-ab33531896a5.da8b1.json",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e3/e330c634-0680-4e10-a31e-e968b706b2fc.676ed.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/94/9428b7e7-5511-4c67-8e16-c48806a2c482.904ce.json",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/16/16d29f08-bd1d-445a-8f6b-67da2ff27bce.6b3da.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/f2/f293cbc1-3e1c-476d-a244-37e991a502c7.9248a.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/42/42580f82-ae85-4678-80f2-844b73fbbdde.47ab0.json",
+            "size": 128,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/ca/ca68c01c-142f-486b-baa8-ef282a8f2b93.67e6e.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.48f19.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/72/7260e799-e277-4b6f-b022-ae32622d7264.3a708.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/c9/c9995e04-00e8-4390-ab9b-b851f7d6d689.7be94.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/41/41354119-703e-4162-b41f-d31be1556326.7f7c5.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/38/3814b964-8e92-4547-9071-3773cc3b7fe7.efea2.json",
+            "size": 131,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e7/e7efe09e-9aa1-4364-ac15-92a17e4e7c59.930cb.json",
+            "size": 131,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/2e/2e7df1a2-5856-41c5-b64c-0f824ccb304d.d2546.json",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/33/333c12bd-5994-43a5-8079-0c2cbc3400fd.c1e73.json",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/a7/a7c02bd5-f214-4512-b045-db4046a68bea.d93e0.json",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/80/8055bb02-5fd4-4003-8659-5077b0233b75.506e0.json",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/b0/b074d5b1-d33f-403d-a4c7-07ca93e87d88.6caf1.json",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/c6/c699f031-8395-4711-99ba-3c939c7ad803.04385.json",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/09/09bcd397f.c6cee.json",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0e/0eeed71ba.bde77.json",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0f/0f8d0a72c.a7309.json",
+            "size": 1110,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/1e/1e5c77a6-f968-4583-96d5-e5432b0a4951.0b603.json",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/03/03896c292.19cdd.json",
+            "size": 340,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/07/073fa42a7.2aa4c.json",
+            "size": 45,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/1c/1c4a8b8c-f8da-45e6-b5fc-3bd3906b8d12.a622a.json",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/15/15faab06-b09b-4aa7-bd51-619c0ea07eda.ae9ed.json",
+            "size": 193,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/9f/9f98fcda-c267-4971-889a-0d8cb50cf502.66011.json",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/eb/eb1d9479-2637-4580-af4a-d6e8f5cfc5f7.b0223.json",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/7c/7c600545-d5cb-43fd-abf4-872de1cce94e.31011.json",
+            "size": 1588,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/05/05cb0532-64b4-4ff6-ad5c-55a64c524205.ee28d.json",
+            "size": 88168,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/06/0600ac38a.00549.json",
+            "size": 5513,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/da/da5ddd50-8347-4684-85d8-090a26202baf.15f44.json",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/06/060263800.5fc90.json",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/bb/bbc27da4-df18-4a51-aec0-4786878cd686.75e57.json",
+            "size": 46,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0c/0c0060f4e.60d2c.json",
+            "size": 47784,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/1c/1c9f937dd.91de0.json",
+            "size": 78,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/04/04fc374da.c2ef6.json",
+            "size": 47,
+            "status": 200
+          }
+        ]
+      },
+      "HTML": {
+        "count": 1,
+        "size": 302,
+        "encodedSize": 302,
+        "urls": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-M72CW974",
+            "size": 302,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 27,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 22,
+        "size": 20252,
+        "encodedSize": 739,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 82,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/76/76ac40ab-370f-4f20-bb53-1417a6c77007.e0a4e.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 23,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 23,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 23,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/89/89523313-1397-415e-8718-74e681032494.e7030.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/43/43245fcb-508d-4516-ab1f-dea9169c7b24.31a4f.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 3012,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/8a/8aa4c607-c144-438e-a930-62341199d649.bb1ce.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/ac/acede5d8-76dc-4150-a4de-257fe6713603.e156a.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/1d/1d8771472.149fc.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/native/1c/1c9f937dd.bd7e2.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c4/c4bcd273-63b5-4646-a045-e7763c215e4e.d9614.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/95/954df7af-56af-4a85-9dde-0e6a87c3809c.13f77.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/48/488432e2-754a-4994-a7e1-0a4ae3ab2e79.6c559.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/de/de097d75-82bb-489f-8bfb-117956d0a00e.dd9c4.png",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/89/890e1b44-bd95-419f-9134-79a5305e329d.0b2d1.png",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/6a/6aea57fd-f1f6-47cd-a2cb-89bb612c1bfd.573b7.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/54/54afcce0-1bb8-4e76-baf1-a67a466ca366.edb7c.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/03/03b4f13d-5cd4-44a5-9df9-e25b26c31746.9122b.png",
+            "size": 38,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 19,
+        "size": 77981,
+        "encodedSize": 726,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/8f/8f1143a4-69c6-4225-a614-732691baf10c.3de86.mp3",
+            "size": 8194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c6/c699f031-8395-4711-99ba-3c939c7ad803.4a208.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/b0/b074d5b1-d33f-403d-a4c7-07ca93e87d88.76982.mp3",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/80/8055bb02-5fd4-4003-8659-5077b0233b75.8b6f4.mp3",
+            "size": 26392,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/33/333c12bd-5994-43a5-8079-0c2cbc3400fd.0b4a5.mp3",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/a7/a7c02bd5-f214-4512-b045-db4046a68bea.ccb4a.mp3",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/2e/2e7df1a2-5856-41c5-b64c-0f824ccb304d.96aa6.mp3",
+            "size": 24785,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e7/e7efe09e-9aa1-4364-ac15-92a17e4e7c59.7200a.mp3",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/38/3814b964-8e92-4547-9071-3773cc3b7fe7.4ecd7.mp3",
+            "size": 18044,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c9/c9995e04-00e8-4390-ab9b-b851f7d6d689.e4a87.mp3",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/41/41354119-703e-4162-b41f-d31be1556326.61070.mp3",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.13efa.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/72/7260e799-e277-4b6f-b022-ae32622d7264.518be.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/ca/ca68c01c-142f-486b-baa8-ef282a8f2b93.5599d.mp3",
+            "size": 45,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/42/42580f82-ae85-4678-80f2-844b73fbbdde.48dd2.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/f2/f293cbc1-3e1c-476d-a244-37e991a502c7.face9.mp3",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/94/9428b7e7-5511-4c67-8e16-c48806a2c482.984a5.mp3",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e3/e330c634-0680-4e10-a31e-e968b706b2fc.90c25.mp3",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/16/16d29f08-bd1d-445a-8f6b-67da2ff27bce.ef328.mp3",
+            "size": 37,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "secondVisit": {
+    "totalTime": 28930,
+    "navigationTime": 3905,
+    "totalRequests": 125,
+    "totalSize": 8284160,
+    "totalEncodedSize": 1231109,
+    "fromCacheCount": 104,
+    "failedRequests": 0,
+    "byType": {
+      "Other": {
+        "count": 5,
+        "size": 217326,
+        "encodedSize": 57633,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/?ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c&Lang=zh-CN",
+            "size": 7344,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/GHLLG-DXABY-LH7FL-6KNHY-7TNVC",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/md5.txt?ver=1761896979112",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/md5.txt?ver=1761896979979",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-webview/zh-CN/arcade-bingo/launch/?ver=1761896979980",
+            "size": 31,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 1138,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 10,
+        "size": 4533131,
+        "encodedSize": 1172122,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/src/settings.092d8.js",
+            "size": 318,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/main.bf742.js",
+            "size": 10251,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/cocos2d-js-min.2773f.js",
+            "size": 2039285,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/index.a38a9.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/index.6e22c.js",
+            "size": 1940438,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/index.1f072.js",
+            "size": 298602,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 68,
+        "size": 632915,
+        "encodedSize": 216,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/config.a38a9.json",
+            "size": 17459,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/config.6e22c.json",
+            "size": 2209,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/03/03b224066.c0c7f.json",
+            "size": 1348,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/05/053583772.ab556.json",
+            "size": 1952,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/08/083870200.17136.json",
+            "size": 1305,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/bingoconfig.json?ver=prod-1.0.8",
+            "size": 107,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=GHLLG-DXABY-LH7FL-6KNHY-7TNVC&d=www.shuangzi6688.com&t=5872990&v=1.720.0&sl=0&si=29568860-4c6d-4539-9f42-7e6d33742f0d-t4zkeq&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022461",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761896978879",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/config.22c7a.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bingo-common/zh-CN.json?v=1761896979617",
+            "size": 6657,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bonus-bingo/zh-CN.json?v=1761896979619",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0b/0b0eba708.f3f2d.json",
+            "size": 3736,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0d/0dac77c7d.138aa.json",
+            "size": 3649,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/dd/dd6a1dc0-9c83-4843-ad74-9c762170e2e5.60c99.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0f/0ffcf24af.2ab6a.json",
+            "size": 360,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/config.1f072.json",
+            "size": 26940,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/06/06dacee72.fc32d.json",
+            "size": 548,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 1284,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/0f/0ffc70b72.e55ad.json",
+            "size": 14160,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/04/049f84a04.c0c43.json",
+            "size": 37896,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/94/9428b7e7-5511-4c67-8e16-c48806a2c482.904ce.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e3/e330c634-0680-4e10-a31e-e968b706b2fc.676ed.json",
+            "size": 122,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/f2/f293cbc1-3e1c-476d-a244-37e991a502c7.9248a.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/16/16d29f08-bd1d-445a-8f6b-67da2ff27bce.6b3da.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/42/42580f82-ae85-4678-80f2-844b73fbbdde.47ab0.json",
+            "size": 128,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/ca/ca68c01c-142f-486b-baa8-ef282a8f2b93.67e6e.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.48f19.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/72/7260e799-e277-4b6f-b022-ae32622d7264.3a708.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/c9/c9995e04-00e8-4390-ab9b-b851f7d6d689.7be94.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/41/41354119-703e-4162-b41f-d31be1556326.7f7c5.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/a7/a7c02bd5-f214-4512-b045-db4046a68bea.d93e0.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/38/3814b964-8e92-4547-9071-3773cc3b7fe7.efea2.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761896980369",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/e7/e7efe09e-9aa1-4364-ac15-92a17e4e7c59.930cb.json",
+            "size": 131,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/2e/2e7df1a2-5856-41c5-b64c-0f824ccb304d.d2546.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/33/333c12bd-5994-43a5-8079-0c2cbc3400fd.c1e73.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/80/8055bb02-5fd4-4003-8659-5077b0233b75.506e0.json",
+            "size": 128,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/b0/b074d5b1-d33f-403d-a4c7-07ca93e87d88.6caf1.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/c6/c699f031-8395-4711-99ba-3c939c7ad803.04385.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/09/09bcd397f.c6cee.json",
+            "size": 23442,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/62/6279e339-4bee-437b-be9b-ab33531896a5.da8b1.json",
+            "size": 726,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/7c/7c600545-d5cb-43fd-abf4-872de1cce94e.31011.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/05/05cb0532-64b4-4ff6-ad5c-55a64c524205.ee28d.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/1e/1e5c77a6-f968-4583-96d5-e5432b0a4951.0b603.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/03/03896c292.19cdd.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/1c/1c4a8b8c-f8da-45e6-b5fc-3bd3906b8d12.a622a.json",
+            "size": 207,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/07/073fa42a7.2aa4c.json",
+            "size": 9382,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/15/15faab06-b09b-4aa7-bd51-619c0ea07eda.ae9ed.json",
+            "size": 193,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/9f/9f98fcda-c267-4971-889a-0d8cb50cf502.66011.json",
+            "size": 206,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/eb/eb1d9479-2637-4580-af4a-d6e8f5cfc5f7.b0223.json",
+            "size": 208,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/06/0600ac38a.00549.json",
+            "size": 5513,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/da/da5ddd50-8347-4684-85d8-090a26202baf.15f44.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/06/060263800.5fc90.json",
+            "size": 80057,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/bb/bbc27da4-df18-4a51-aec0-4786878cd686.75e57.json",
+            "size": 203,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0c/0c0060f4e.60d2c.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0e/0eeed71ba.bde77.json",
+            "size": 9347,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/0f/0f8d0a72c.a7309.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/import/04/04fc374da.c2ef6.json",
+            "size": 338,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/import/1c/1c9f937dd.91de0.json",
+            "size": 78,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 22,
+        "size": 2356171,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/76/76ac40ab-370f-4f20-bb53-1417a6c77007.e0a4e.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 764386,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 758788,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 772601,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/89/89523313-1397-415e-8718-74e681032494.e7030.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/43/43245fcb-508d-4516-ab1f-dea9169c7b24.31a4f.png",
+            "size": 40850,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 3012,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/8a/8aa4c607-c144-438e-a930-62341199d649.bb1ce.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/ac/acede5d8-76dc-4150-a4de-257fe6713603.e156a.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/main/native/1c/1c9f937dd.bd7e2.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/95/954df7af-56af-4a85-9dde-0e6a87c3809c.13f77.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c4/c4bcd273-63b5-4646-a045-e7763c215e4e.d9614.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/de/de097d75-82bb-489f-8bfb-117956d0a00e.dd9c4.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/48/488432e2-754a-4994-a7e1-0a4ae3ab2e79.6c559.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/1d/1d8771472.149fc.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/6a/6aea57fd-f1f6-47cd-a2cb-89bb612c1bfd.573b7.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/03/03b4f13d-5cd4-44a5-9df9-e25b26c31746.9122b.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/89/890e1b44-bd95-419f-9134-79a5305e329d.0b2d1.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/54/54afcce0-1bb8-4e76-baf1-a67a466ca366.edb7c.png",
+            "size": 0,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 19,
+        "size": 542052,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/8f/8f1143a4-69c6-4225-a614-732691baf10c.3de86.mp3",
+            "size": 8194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c6/c699f031-8395-4711-99ba-3c939c7ad803.4a208.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/b0/b074d5b1-d33f-403d-a4c7-07ca93e87d88.76982.mp3",
+            "size": 6408,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/80/8055bb02-5fd4-4003-8659-5077b0233b75.8b6f4.mp3",
+            "size": 26392,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/33/333c12bd-5994-43a5-8079-0c2cbc3400fd.0b4a5.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/2e/2e7df1a2-5856-41c5-b64c-0f824ccb304d.96aa6.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e7/e7efe09e-9aa1-4364-ac15-92a17e4e7c59.7200a.mp3",
+            "size": 41626,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/38/3814b964-8e92-4547-9071-3773cc3b7fe7.4ecd7.mp3",
+            "size": 18044,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/a7/a7c02bd5-f214-4512-b045-db4046a68bea.ccb4a.mp3",
+            "size": 29801,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/41/41354119-703e-4162-b41f-d31be1556326.61070.mp3",
+            "size": 29801,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/c9/c9995e04-00e8-4390-ab9b-b851f7d6d689.e4a87.mp3",
+            "size": 53625,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/72/7260e799-e277-4b6f-b022-ae32622d7264.518be.mp3",
+            "size": 77448,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.13efa.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/ca/ca68c01c-142f-486b-baa8-ef282a8f2b93.5599d.mp3",
+            "size": 85403,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/42/42580f82-ae85-4678-80f2-844b73fbbdde.48dd2.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/16/16d29f08-bd1d-445a-8f6b-67da2ff27bce.ef328.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/f2/f293cbc1-3e1c-476d-a244-37e991a502c7.face9.mp3",
+            "size": 148340,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/94/9428b7e7-5511-4c67-8e16-c48806a2c482.984a5.mp3",
+            "size": 8485,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/ArcadeBingo/assets/resources/native/e3/e330c634-0680-4e10-a31e-e968b706b2fc.90c25.mp3",
+            "size": 8485,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "comparison": {
+    "timeImprovement": -6.3094844375849775,
+    "timeSaved": -1717,
+    "sizeReduction": -15905.057202288092,
+    "sizeSaved": -1223417,
+    "cacheHitRate": 83.2
+  }
+}

@@ -1,0 +1,1575 @@
+{
+  "url": "https://www.shuangzi6688.com/Bingo/MagicBingo/?Lang=zh-CN&ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33404cb3eb0189f08060198be57a6832c5",
+  "timestamp": "2025-10-31T09:58:58.376Z",
+  "mode": "double-visit",
+  "firstVisit": {
+    "totalTime": 29411,
+    "navigationTime": 4376,
+    "totalRequests": 151,
+    "totalSize": 5936172,
+    "totalEncodedSize": 26176,
+    "fromCacheCount": 0,
+    "failedRequests": 5,
+    "byType": {
+      "Other": {
+        "count": 10,
+        "size": 218861,
+        "encodedSize": 18522,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/Bingo/MagicBingo/?Lang=zh-CN&ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33404cb3eb0189f08060198be57a6832c5",
+            "size": 324,
+            "status": 200
+          },
+          {
+            "url": "https://www.clarity.ms/tag/tiqwucswa4?ref=npm",
+            "size": 699,
+            "status": 200
+          },
+          {
+            "url": "https://ds-r.geminiservice.cc/domains?type=Bingo",
+            "size": 105,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/?ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33404cb3eb0189f08060198be57a6832c5&Lang=zh-CN",
+            "size": 21,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-HS9NFED03C&cx=c&gtm=4e5at1",
+            "size": 55,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/?ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33404cb3eb0189f08060198be57a6832c5&Lang=zh-CN",
+            "size": 7343,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/GHLLG-DXABY-LH7FL-6KNHY-7TNVC",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/md5.txt?ver=1761904684959",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/md5.txt?ver=1761904686110",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-webview/zh-CN/magic-bingo/launch/?ver=1761904686119",
+            "size": 363,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 14,
+        "size": 4963185,
+        "encodedSize": 1857,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/assets/Error-t0OlWNc8.js",
+            "size": 1689,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/assets/check_example-DBI48XH2.js",
+            "size": 4758,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M72CW974",
+            "size": 305642,
+            "status": 200
+          },
+          {
+            "url": "https://scripts.clarity.ms/0.8.38/clarity.js",
+            "size": 78710,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/main.e6c76.js",
+            "size": 10251,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/src/settings.72422.js",
+            "size": 318,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/cocos2d-js-min.2773f.js",
+            "size": 2039285,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/index.ad562.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/index.5730d.js",
+            "size": 1979693,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/index.1f072.js",
+            "size": 298602,
+            "status": 200
+          }
+        ]
+      },
+      "HTML": {
+        "count": 1,
+        "size": 302,
+        "encodedSize": 302,
+        "urls": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-M72CW974",
+            "size": 302,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 70,
+        "size": 301333,
+        "encodedSize": 2781,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/config.json",
+            "size": 915,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=GHLLG-DXABY-LH7FL-6KNHY-7TNVC&d=www.shuangzi6688.com&t=5873016&v=1.720.0&sl=0&si=f4b5bffa-8d3e-4c81-9541-e74f3d02ba4b-t4zqcp&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022461",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/config.ad562.json",
+            "size": 16168,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/config.5730d.json",
+            "size": 1858,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/8c/8cf50031-7bb2-431a-a2d0-a2c1e86b6e7b.e750e.json",
+            "size": 862,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/08/083870200.ce5f0.json",
+            "size": 1305,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/bingoconfig.json?ver=prod-1.0.41",
+            "size": 107,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761904684666",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/config.22c7a.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 19,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bingo-common/zh-CN.json?v=1761904685548",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/magic-bingo/zh-CN.json?v=1761904685549",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/36/361af953-b3ec-4c8e-aebd-e2fef37a8117.b9395.json",
+            "size": 205,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a0/a0bfb333-9551-4bab-940c-d31a9e72462f.f0210.json",
+            "size": 209,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/42/42e862ca-4ca6-47f8-8863-b283924c82a9.6edd1.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a3/a35dd780-6d3b-415a-af07-4725eb62d028.a6026.json",
+            "size": 201,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/70/702c4c1c-883d-4437-9add-2cc85f843bbc.949a0.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/fa/fa44af78-6c70-44d8-8c65-05d5e83015be.17bef.json",
+            "size": 201,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/df/dfa2d554-c0e7-4aaf-af74-4351664bf12c.5edcd.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b9/b9aa73f5-267e-4b57-a674-324df56482c5.e3397.json",
+            "size": 202,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a2/a2265a2b-f13b-4bae-bc3d-c08e070fa774.a5e9d.json",
+            "size": 200,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b9/b92a4489-8e99-4068-9620-06449b953573.08988.json",
+            "size": 203,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a9/a950ff08-4ca8-45ef-80a3-69ee20319cb6.6db68.json",
+            "size": 175,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a7/a7b3d82c-5826-4ff7-a3c0-69773cfb1324.fbd85.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/af/af895e49-9672-4e4d-8e21-299e3ee9f2bc.3e938.json",
+            "size": 206,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b2/b2af53c7-7c72-4113-be67-2426b9b189f6.2ec31.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/01/013f3304d.fca06.json",
+            "size": 4160,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0e/0efa2dc52.b174e.json",
+            "size": 3062,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/07/074f748a8.a290a.json",
+            "size": 365,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/61/613653ef-fb64-459d-81dc-2dace9b250cd.e089a.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f4/f4eaad74-1829-43ce-a232-0014b8743344.8a508.json",
+            "size": 195,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/config.1f072.json",
+            "size": 26940,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/06/06dacee72.fc32d.json",
+            "size": 548,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/0f/0f915fe46.661d4.json",
+            "size": 9765,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0c/0c68c54d6.1907b.json",
+            "size": 36563,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/7f/7f277f5b-beb7-4b12-8468-b10660821156.5a695.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e3/e330c634-0680-4e10-a31e-e968b706b2fc.676ed.json",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/94/9428b7e7-5511-4c67-8e16-c48806a2c482.904ce.json",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761904686569",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e4/e4871f6f-bb1c-477e-9e9d-bd3153336eb8.465b8.json",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/d0/d06f206d-59c5-437d-9608-c30cc73be4e8.88c58.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/2c/2cf39a73-161e-4d47-9ff7-069cd6fadc58.df293.json",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/10/1075c99d-b794-4323-bc07-2bb99d0c5f83.fdcd5.json",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f4/f4454b1f-17b3-4b90-8751-e9cbdedecdab.a35ec.json",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/31/3196f7b6-094b-4049-b511-d06e23cb6dbe.b64e8.json",
+            "size": 44,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/08/0884eb65-c262-4dfb-b881-c0bb977a2501.b456e.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/ee/ee7f49e9-236c-4b47-b0e0-159aeb264de7.c8512.json",
+            "size": 45,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.48f19.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/72/7260e799-e277-4b6f-b022-ae32622d7264.3a708.json",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f2/f210729d-e6e8-4a63-ba14-4b8c06798907.bdfa2.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/a1/a19f6c53-bfe9-4059-9dd7-272fef8c2522.d7ff3.json",
+            "size": 122,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/03/0347f7601.534e5.json",
+            "size": 44,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0f/0fa61bcce.7c594.json",
+            "size": 9312,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0b/0b1401852.796cb.json",
+            "size": 505,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/da/da5ddd50-8347-4684-85d8-090a26202baf.15f44.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/22/22d13365-afd8-4a54-968d-82b62cceeb98.07ee4.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0e/0eeed71ba.bde77.json",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/07/073fa42a7.2aa4c.json",
+            "size": 9382,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/7c/7c600545-d5cb-43fd-abf4-872de1cce94e.9ead6.json",
+            "size": 1662,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0f/0f9b04bca.7016b.json",
+            "size": 47,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/05/05c58cedd.c36e8.json",
+            "size": 122,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 40,
+        "size": 314134,
+        "encodedSize": 2082,
+        "urls": [
+          {
+            "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=41CEF1784B4B4EE49CE8C59B4E2496FE&MUID=0716A135D76566251248B7A3D6206705",
+            "size": 658,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 17,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/18/1847d0b51.b2f57.png",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/47/4717cf1d-fa47-4704-8723-920f93dc081b.31b9f.png",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/51/5133a094-4f20-40fd-9c98-f3ed2ced2e0f.a5946.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/19/19218be6-81e1-452d-8d8c-513378d5c9cd.f6179.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/27/27d53946-549f-467e-a00f-b669e185222a.0408b.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a3/a3e87a7e-0fdd-4f3a-8f91-21a0cf8ece8e.aa9d7.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/92/920dd369-3f4d-4bbf-96b3-f4c5453980de.f1b08.png",
+            "size": 5950,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 3012,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/16/1651b9a84.80a6d.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/11/11438555a.08131.png",
+            "size": 9380,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/14/14d913d91.9849a.png",
+            "size": 234396,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/de/de097d75-82bb-489f-8bfb-117956d0a00e.ed359.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/f9/f9d4cf65-e671-4bfb-aa26-862ac84cd35b.57a4f.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/20/201aca41-48f9-43b3-a229-83050d32a1fc.a5946.png",
+            "size": 47,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/c4/c4bcd273-63b5-4646-a045-e7763c215e4e.d9614.png",
+            "size": 36,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/25/25b1cf43-e008-4014-abcd-eff284b8b0f1.cf8c0.png",
+            "size": 3188,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/04/04b95ab4-7627-4a99-bdd0-aabab18b7268.f9912.png",
+            "size": 3070,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/66/667dd436-4c9d-408f-af20-95a4ea76d45a.2a524.png",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/79/79781127-7807-4016-8022-6c13df0bae3e.ee402.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/2a/2a7a158e-a197-4bd1-a14f-d306823fd756.8b217.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/9d/9de45f90-819d-4bdb-8b3a-c1bb921a4349.a7519.png",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/48/488432e2-754a-4994-a7e1-0a4ae3ab2e79.6c559.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/67/670f11d8-5948-401d-b588-56f503268f94.c68f0.png",
+            "size": 25668,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/ef/ef2ce5df-79b1-44eb-b6e7-74942ea6a6bd.77e6c.png",
+            "size": 3798,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a8/a8d2e11e-dd28-4401-bf83-972855ba8d07.b8404.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e3196272-89d4-4c9b-b620-aa2f3c8f697d.3949e.png",
+            "size": 3769,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a3/a3629f7a-56e1-4833-afd3-b1c5053a10f0.e7c82.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/16/169a07ab-f878-4781-912b-d6e55569e687.7c883.png",
+            "size": 3749,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/a9/a9462d62-b93d-4378-9ab9-327854118611.4cd20.png",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/6d/6dedb370-3c6f-4844-89e6-cab67db3bc85.feff0.png",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/6a/6aea57fd-f1f6-47cd-a2cb-89bb612c1bfd.573b7.png",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/89/890e1b44-bd95-419f-9134-79a5305e329d.0b2d1.png",
+            "size": 38,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/54/5482b4d6-41c2-43c3-b0be-0d0c574e7a6a.3d40f.png",
+            "size": 38,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 27,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 15,
+        "size": 135792,
+        "encodedSize": 605,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/8f/8f1143a4-69c6-4225-a614-732691baf10c.39d1b.mp3",
+            "size": 10993,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/f2/f210729d-e6e8-4a63-ba14-4b8c06798907.dffc4.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a1/a19f6c53-bfe9-4059-9dd7-272fef8c2522.246d7.mp3",
+            "size": 10366,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/72/7260e799-e277-4b6f-b022-ae32622d7264.518be.mp3",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.13efa.mp3",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/ee/ee7f49e9-236c-4b47-b0e0-159aeb264de7.4caf7.mp3",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/08/0884eb65-c262-4dfb-b881-c0bb977a2501.a013c.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/31/3196f7b6-094b-4049-b511-d06e23cb6dbe.90e12.mp3",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/f4/f4454b1f-17b3-4b90-8751-e9cbdedecdab.57de8.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/10/1075c99d-b794-4323-bc07-2bb99d0c5f83.c1f34.mp3",
+            "size": 29174,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/2c/2cf39a73-161e-4d47-9ff7-069cd6fadc58.0edf9.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e4/e4871f6f-bb1c-477e-9e9d-bd3153336eb8.59e0d.mp3",
+            "size": 43,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/d0/d06f206d-59c5-437d-9608-c30cc73be4e8.af164.mp3",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/94/9428b7e7-5511-4c67-8e16-c48806a2c482.984a5.mp3",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e330c634-0680-4e10-a31e-e968b706b2fc.90c25.mp3",
+            "size": 42,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "secondVisit": {
+    "totalTime": 28966,
+    "navigationTime": 3936,
+    "totalRequests": 139,
+    "totalSize": 8416026,
+    "totalEncodedSize": 1240937,
+    "fromCacheCount": 118,
+    "failedRequests": 0,
+    "byType": {
+      "Other": {
+        "count": 5,
+        "size": 210036,
+        "encodedSize": 58297,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/?ProductId=ELS&Token=b1bf2ac1ab1daa5ae8e8d7d0c746be33404cb3eb0189f08060198be57a6832c5&Lang=zh-CN",
+            "size": 54,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/GHLLG-DXABY-LH7FL-6KNHY-7TNVC",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/md5.txt?ver=1761904710534",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/md5.txt?ver=1761904711419",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-webview/zh-CN/magic-bingo/launch/?ver=1761904711428",
+            "size": 31,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 1138,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 10,
+        "size": 4572386,
+        "encodedSize": 1181278,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/src/settings.72422.js",
+            "size": 318,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/main.e6c76.js",
+            "size": 10251,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/cocos2d-js-min.2773f.js",
+            "size": 2039285,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/physics-min.941a2.js",
+            "size": 198293,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/index.d17e2.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/index.ad562.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/index.5730d.js",
+            "size": 1979693,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/index.1f072.js",
+            "size": 298602,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 69,
+        "size": 1265069,
+        "encodedSize": 224,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/config.d17e2.json",
+            "size": 1608,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/config.ad562.json",
+            "size": 16168,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/config.5730d.json",
+            "size": 1858,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/import/0b/0b6c4470e.9537f.json",
+            "size": 140960,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/8c/8cf50031-7bb2-431a-a2d0-a2c1e86b6e7b.e750e.json",
+            "size": 862,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/08/083870200.ce5f0.json",
+            "size": 1305,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/bingoconfig.json?ver=prod-1.0.41",
+            "size": 107,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761904710387",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/config.22c7a.json",
+            "size": 605280,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=GHLLG-DXABY-LH7FL-6KNHY-7TNVC&d=www.shuangzi6688.com&t=5873016&v=1.720.0&sl=0&si=e7035393-ea96-4942-90c9-f72a624f1c0d-t4zqdh&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022461",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bingo-common/zh-CN.json?v=1761904711050",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/magic-bingo/zh-CN.json?v=1761904711051",
+            "size": 449,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/36/361af953-b3ec-4c8e-aebd-e2fef37a8117.b9395.json",
+            "size": 205,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/42/42e862ca-4ca6-47f8-8863-b283924c82a9.6edd1.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/70/702c4c1c-883d-4437-9add-2cc85f843bbc.949a0.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a0/a0bfb333-9551-4bab-940c-d31a9e72462f.f0210.json",
+            "size": 209,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a2/a2265a2b-f13b-4bae-bc3d-c08e070fa774.a5e9d.json",
+            "size": 200,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a3/a35dd780-6d3b-415a-af07-4725eb62d028.a6026.json",
+            "size": 201,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/fa/fa44af78-6c70-44d8-8c65-05d5e83015be.17bef.json",
+            "size": 201,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/df/dfa2d554-c0e7-4aaf-af74-4351664bf12c.5edcd.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b9/b9aa73f5-267e-4b57-a674-324df56482c5.e3397.json",
+            "size": 202,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b9/b92a4489-8e99-4068-9620-06449b953573.08988.json",
+            "size": 203,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/b2/b2af53c7-7c72-4113-be67-2426b9b189f6.2ec31.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/af/af895e49-9672-4e4d-8e21-299e3ee9f2bc.3e938.json",
+            "size": 206,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a9/a950ff08-4ca8-45ef-80a3-69ee20319cb6.6db68.json",
+            "size": 175,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/import/a7/a7b3d82c-5826-4ff7-a3c0-69773cfb1324.fbd85.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/01/013f3304d.fca06.json",
+            "size": 4160,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0e/0efa2dc52.b174e.json",
+            "size": 3062,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/07/074f748a8.a290a.json",
+            "size": 365,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/61/613653ef-fb64-459d-81dc-2dace9b250cd.e089a.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f4/f4eaad74-1829-43ce-a232-0014b8743344.8a508.json",
+            "size": 195,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/config.1f072.json",
+            "size": 26940,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/06/06dacee72.fc32d.json",
+            "size": 548,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 1284,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/0f/0f915fe46.661d4.json",
+            "size": 9765,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/7f/7f277f5b-beb7-4b12-8468-b10660821156.5a695.json",
+            "size": 187,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0c/0c68c54d6.1907b.json",
+            "size": 36563,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/94/9428b7e7-5511-4c67-8e16-c48806a2c482.904ce.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e3/e330c634-0680-4e10-a31e-e968b706b2fc.676ed.json",
+            "size": 122,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761904711719",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e4/e4871f6f-bb1c-477e-9e9d-bd3153336eb8.465b8.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/d0/d06f206d-59c5-437d-9608-c30cc73be4e8.88c58.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/10/1075c99d-b794-4323-bc07-2bb99d0c5f83.fdcd5.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/2c/2cf39a73-161e-4d47-9ff7-069cd6fadc58.df293.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f4/f4454b1f-17b3-4b90-8751-e9cbdedecdab.a35ec.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/f2/f210729d-e6e8-4a63-ba14-4b8c06798907.bdfa2.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/31/3196f7b6-094b-4049-b511-d06e23cb6dbe.b64e8.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/08/0884eb65-c262-4dfb-b881-c0bb977a2501.b456e.json",
+            "size": 127,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/ee/ee7f49e9-236c-4b47-b0e0-159aeb264de7.c8512.json",
+            "size": 128,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.48f19.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/72/7260e799-e277-4b6f-b022-ae32622d7264.3a708.json",
+            "size": 123,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/a1/a19f6c53-bfe9-4059-9dd7-272fef8c2522.d7ff3.json",
+            "size": 122,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0f/0fa61bcce.7c594.json",
+            "size": 9312,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0b/0b1401852.796cb.json",
+            "size": 505,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/22/22d13365-afd8-4a54-968d-82b62cceeb98.07ee4.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/da/da5ddd50-8347-4684-85d8-090a26202baf.15f44.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/07/073fa42a7.2aa4c.json",
+            "size": 9382,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0e/0eeed71ba.bde77.json",
+            "size": 9347,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/7c/7c600545-d5cb-43fd-abf4-872de1cce94e.9ead6.json",
+            "size": 1662,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/03/0347f7601.534e5.json",
+            "size": 135374,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/import/05/05c58cedd.c36e8.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/import/0f/0f9b04bca.7016b.json",
+            "size": 3877,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 39,
+        "size": 2105868,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/internal/native/60/600301aa-3357-4a10-b086-84f011fa32ba.c3a3a.png",
+            "size": 7518,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 772601,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_i18n/native/18/1847d0b51.b2f57.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/47/4717cf1d-fa47-4704-8723-920f93dc081b.31b9f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/51/5133a094-4f20-40fd-9c98-f3ed2ced2e0f.a5946.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/19/19218be6-81e1-452d-8d8c-513378d5c9cd.f6179.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/27/27d53946-549f-467e-a00f-b669e185222a.0408b.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a3/a3e87a7e-0fdd-4f3a-8f91-21a0cf8ece8e.aa9d7.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/92/920dd369-3f4d-4bbf-96b3-f4c5453980de.f1b08.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/16/1651b9a84.80a6d.png",
+            "size": 194686,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/14/14d913d91.9849a.png",
+            "size": 234396,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/f9/f9d4cf65-e671-4bfb-aa26-862ac84cd35b.57a4f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/de/de097d75-82bb-489f-8bfb-117956d0a00e.ed359.png",
+            "size": 846868,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/c4/c4bcd273-63b5-4646-a045-e7763c215e4e.d9614.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/20/201aca41-48f9-43b3-a229-83050d32a1fc.a5946.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/04/04b95ab4-7627-4a99-bdd0-aabab18b7268.f9912.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/25/25b1cf43-e008-4014-abcd-eff284b8b0f1.cf8c0.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/79/79781127-7807-4016-8022-6c13df0bae3e.ee402.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/66/667dd436-4c9d-408f-af20-95a4ea76d45a.2a524.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/2a/2a7a158e-a197-4bd1-a14f-d306823fd756.8b217.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/9d/9de45f90-819d-4bdb-8b3a-c1bb921a4349.a7519.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/48/488432e2-754a-4994-a7e1-0a4ae3ab2e79.6c559.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/11/11438555a.08131.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/ef/ef2ce5df-79b1-44eb-b6e7-74942ea6a6bd.77e6c.png",
+            "size": 3798,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a8/a8d2e11e-dd28-4401-bf83-972855ba8d07.b8404.png",
+            "size": 3796,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e3196272-89d4-4c9b-b620-aa2f3c8f697d.3949e.png",
+            "size": 3769,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a3/a3629f7a-56e1-4833-afd3-b1c5053a10f0.e7c82.png",
+            "size": 3752,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/16/169a07ab-f878-4781-912b-d6e55569e687.7c883.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/6d/6dedb370-3c6f-4844-89e6-cab67db3bc85.feff0.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/6a/6aea57fd-f1f6-47cd-a2cb-89bb612c1bfd.573b7.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/89/890e1b44-bd95-419f-9134-79a5305e329d.0b2d1.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/54/5482b4d6-41c2-43c3-b0be-0d0c574e7a6a.3d40f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/a9/a9462d62-b93d-4378-9ab9-327854118611.4cd20.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/main/native/67/670f11d8-5948-401d-b588-56f503268f94.c68f0.png",
+            "size": 25668,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 15,
+        "size": 260102,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/8f/8f1143a4-69c6-4225-a614-732691baf10c.39d1b.mp3",
+            "size": 10993,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/a1/a19f6c53-bfe9-4059-9dd7-272fef8c2522.246d7.mp3",
+            "size": 10366,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/72/7260e799-e277-4b6f-b022-ae32622d7264.518be.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e350f7c5-bfdb-48df-bd4e-c7af6db77f0f.13efa.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/ee/ee7f49e9-236c-4b47-b0e0-159aeb264de7.4caf7.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/31/3196f7b6-094b-4049-b511-d06e23cb6dbe.90e12.mp3",
+            "size": 61775,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/08/0884eb65-c262-4dfb-b881-c0bb977a2501.a013c.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/f2/f210729d-e6e8-4a63-ba14-4b8c06798907.dffc4.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/f4/f4454b1f-17b3-4b90-8751-e9cbdedecdab.57de8.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/2c/2cf39a73-161e-4d47-9ff7-069cd6fadc58.0edf9.mp3",
+            "size": 21233,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/10/1075c99d-b794-4323-bc07-2bb99d0c5f83.c1f34.mp3",
+            "size": 29174,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/d0/d06f206d-59c5-437d-9608-c30cc73be4e8.af164.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e4/e4871f6f-bb1c-477e-9e9d-bd3153336eb8.59e0d.mp3",
+            "size": 45892,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/e3/e330c634-0680-4e10-a31e-e968b706b2fc.90c25.mp3",
+            "size": 8485,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/MagicBingo/assets/resources/native/94/9428b7e7-5511-4c67-8e16-c48806a2c482.984a5.mp3",
+            "size": 8485,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "comparison": {
+    "timeImprovement": 1.5130393390228145,
+    "timeSaved": 445,
+    "sizeReduction": -4640.743429095354,
+    "sizeSaved": -1214761,
+    "cacheHitRate": 84.89208633093526
+  }
+}

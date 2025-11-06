@@ -1,0 +1,131 @@
+=== 遊戲加載速度測試 ===
+測試時間: Fri Oct 31 05:58:47 AM UTC 2025
+
+測試遊戲: # Game URLs - Generated at 20251031_091556
+URL: # Game URLs - Generated at 20251031_091556
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/ubuntu/puppeteer_game_test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/ubuntu/puppeteer_game_test.js:26:19)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/puppeteer_game_test.js' ]
+}
+
+Node.js v18.20.8
+
+測試遊戲: # Total: 53 games
+URL: # Total: 53 games
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/ubuntu/puppeteer_game_test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/ubuntu/puppeteer_game_test.js:26:19)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/puppeteer_game_test.js' ]
+}
+
+Node.js v18.20.8
+
+測試遊戲: 
+URL: 
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/ubuntu/puppeteer_game_test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/ubuntu/puppeteer_game_test.js:26:19)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/puppeteer_game_test.js' ]
+}
+
+Node.js v18.20.8
+
+測試遊戲: ArcadeBingo
+URL: https://www.shuangzi6688.com/Bingo/ArcadeBingo/?Lang=zh-CN&ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d525bc27d6ba5f832ea6fe1430a86ce47a2c6f174a149762fc565539dd8441b5c
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/ubuntu/puppeteer_game_test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/ubuntu/puppeteer_game_test.js:26:19)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/puppeteer_game_test.js' ]
+}
+
+Node.js v18.20.8
+
+測試遊戲: BonusBingo
+URL: https://www.shuangzi6688.com/Bingo/BonusBingo/?Lang=zh-CN&ProductId=ELS&Token=d132bb3e4095f1fd94729102e33eb045da2daed731b9c7e354333aad2f44869f
+node:internal/modules/cjs/loader:1143
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/ubuntu/puppeteer_game_test.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (/home/ubuntu/puppeteer_game_test.js:26:19)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/puppeteer_game_test.js' ]
+}
+
+Node.js v18.20.8
+
+======================================
+測試摘要
+======================================

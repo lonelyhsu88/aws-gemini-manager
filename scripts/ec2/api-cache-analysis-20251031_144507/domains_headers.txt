@@ -1,0 +1,15 @@
+HTTP/2 404 
+content-type: text/plain
+content-length: 18
+access-control-allow-credentials: true
+access-control-allow-headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+access-control-allow-methods: POST, OPTIONS, GET, PUT ,DELETE
+access-control-allow-origin: *
+access-control-expose-headers: Content-Disposition
+expires: Fri, 31 Oct 2025 06:45:31 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Fri, 31 Oct 2025 06:45:31 GMT
+alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+server-timing: ak_p; desc="1761893131143_3410317612_1791859150_2085_698_3_7_15";dur=1
+

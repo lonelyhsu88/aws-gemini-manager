@@ -1,0 +1,5 @@
+StandAloneMines|https://www.shuangzi6688.com/Hash/StandAloneMines/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbf668f0512357946124cdfa415671573e4575d036ebd4ea844da633f7cbb283dd
+StandAloneDice|https://www.shuangzi6688.com/Hash/StandAloneDice/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cb4c88c3180b8f4476704723b2ed7afa74d036f0d2146a52782499b3bf137565cd
+MultiPlayerCrash|https://www.shuangzi6688.com/Hash/MultiPlayerCrash/?Lang=zh-CN&ProductId=ELS&Token=f8425c51652cc4f253c467bbf5c22add284a085cb17463e3795789b879874181308562fbec953c31a747c05cd658443a
+BonusBingo|https://www.shuangzi6688.com/Bingo/BonusBingo/?Lang=zh-CN&ProductId=ELS&Token=d132bb3e4095f1fd94729102e33eb045435c272aa1ad515917e6c3829e3557d5
+ArcadeBingo|https://www.shuangzi6688.com/Bingo/ArcadeBingo/?Lang=zh-CN&ProductId=ELS&Token=0f83b15f78d4f94dca9728c07e5a037d8ec15cf2cca19199cd436cebb5762118a2c6f174a149762fc565539dd8441b5c

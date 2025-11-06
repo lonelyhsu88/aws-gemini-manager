@@ -1,0 +1,1320 @@
+{
+  "url": "https://www.shuangzi6688.com/Hash/StandAloneHilo/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533",
+  "timestamp": "2025-10-31T09:57:07.652Z",
+  "mode": "double-visit",
+  "firstVisit": {
+    "totalTime": 26972,
+    "navigationTime": 1940,
+    "totalRequests": 128,
+    "totalSize": 7736013,
+    "totalEncodedSize": 10177,
+    "fromCacheCount": 0,
+    "failedRequests": 3,
+    "byType": {
+      "Other": {
+        "count": 13,
+        "size": 612042,
+        "encodedSize": 3934,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/Hash/StandAloneHilo/?Lang=zh-CN&ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533",
+            "size": 324,
+            "status": 200
+          },
+          {
+            "url": "https://www.clarity.ms/tag/tiqwucswa4?ref=npm",
+            "size": 699,
+            "status": 200
+          },
+          {
+            "url": "https://ds-r.geminiservice.cc/domains?type=Hash",
+            "size": 109,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtag/js?id=G-HS9NFED03C&cx=c&gtm=4e5at1",
+            "size": 392411,
+            "status": 200
+          },
+          {
+            "url": "https://www.google.co.jp/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-HS9NFED03C&cid=2035385100.1761904573&gtm=45je5at1v9209392845z89209385929za200zb9209385929zd9209385929&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616985~115938466~115938469~116217636~116217638~116253087~116253089&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616985~115938466~115938469~116217636~116217638~116253087~116253089&z=1987260734",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://analytics.google.com/g/collect?v=2&tid=G-HS9NFED03C&gtm=45je5at1v9209392845z89209385929za200zb9209385929zd9209385929&_p=1761904572280&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=2035385100.1761904573&ecid=274079468&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not_A%2520Brand%3B99.0.0.0%7CChromium%3B142.0.7444.59&uamb=0&uam=&uap=Linux&uapv=&uaw=0&are=1&frm=0&pscdl=&_s=1&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616985~115938466~115938469~116217636~116217638~116253087~116253089&sid=1761904572&sct=1&seg=0&dl=https%3A%2F%2Fwww.shuangzi6688.com%2FHash%2FStandAloneHilo%2F%3FLang%3Dzh-CN%26ProductId%3DELS%26Token%3D868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533&dt=&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=1053",
+            "size": 552,
+            "status": 204
+          },
+          {
+            "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-HS9NFED03C&cid=2035385100.1761904573&gtm=45je5at1v9209392845z89209385929za200zb9209385929zd9209385929&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~104527906~104528500~104684208~104684211~104948813~105322303~115480709~115583767~115616985~115938466~115938469~116217636~116217638~116253087~116253089",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/?ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533&Lang=zh-CN",
+            "size": 352,
+            "status": 200
+          },
+          {
+            "url": "https://q.clarity.ms/collect",
+            "size": 284,
+            "status": 204
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/?ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533&Lang=zh-CN",
+            "size": 7318,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/52EN4-PFEYY-L4RH2-822HZ-XLQJY",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/md5.txt?ver=1761904575348",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/md5.txt?ver=1761904577453",
+            "size": 6,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 13,
+        "size": 6605151,
+        "encodedSize": 1831,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/assets/Error-t0OlWNc8.js",
+            "size": 1689,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/assets/check_example-DBI48XH2.js",
+            "size": 4758,
+            "status": 200
+          },
+          {
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M72CW974",
+            "size": 305660,
+            "status": 200
+          },
+          {
+            "url": "https://scripts.clarity.ms/0.8.38/clarity.js",
+            "size": 78710,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/src/settings.a0eee.js",
+            "size": 317,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/main.5e8f2.js",
+            "size": 3723,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/cocos2d-js-min.2ba41.js",
+            "size": 1873761,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/index.d0832.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/index.54b75.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/index.c578f.js",
+            "size": 3966511,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/index.3c4d6.js",
+            "size": 324078,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 49,
+        "size": 358666,
+        "encodedSize": 1745,
+        "urls": [
+          {
+            "url": "https://www.shuangzi6688.com/config.json",
+            "size": 915,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=52EN4-PFEYY-L4RH2-822HZ-XLQJY&d=hash.shuangzi6688.com&t=5873015&v=1.720.0&sl=0&si=95773cff-d547-475b-8731-59a383f2fc28-t4zq9p&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022565",
+            "size": 0,
+            "status": 204
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/config.d0832.json",
+            "size": 1433,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/config.54b75.json",
+            "size": 9040,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/config.c578f.json",
+            "size": 7046,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/import/09/0967b326a.1f618.json",
+            "size": 57712,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/72/72e22729-6c0b-40a9-a636-b51862a2aac9.19a60.json",
+            "size": 1285,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/19/19300e21-bfb5-4803-a87b-ca1378a9491f.496ae.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/03/035c7799a.013bd.json",
+            "size": 1142,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/01/010e7a925.41dcc.json",
+            "size": 1567,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/hashconfig.json?ver=prod-1.0.51",
+            "size": 167,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761904575105",
+            "size": 6948,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/config.22c7a.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/StandAloneHilo/zh-CN.json?v=1761904576150",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/hash-common/zh-CN.json?v=1761904576147",
+            "size": 25,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/24/2439b1fb-74f1-4eac-9a3c-3ff7cdca212c.89839.json",
+            "size": 20,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/16/1657529f-3577-414c-9dc1-91273f6f82d4.a1d19.json",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/2d/2db6c5e4-cc60-4d28-859e-4697f5f57791.11fce.json",
+            "size": 189,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/27/277664fa-90bb-4b05-a209-fa54790bb6c6.48139.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/4d/4d96bf16-0d62-47fc-af3e-9595675c49e4.9c2c2.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/5e/5ed74bd0-6753-4e2c-8a80-0255c8ebebb8.45c6b.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ad/ade988e8-13d2-4063-b38b-130baa0604ab.a8be5.json",
+            "size": 179,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f3/f33e506d-d7a4-4633-a8b9-179d16b57c43.f1081.json",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/b4/b4003ad6-d241-408d-8344-84c6be53550c.82662.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/c7/c743769d-f859-4bd0-aa85-5399aee73a04.df094.json",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ad/adab49fc-4ed6-4c3a-808d-b95b8e149fdb.e4729.json",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7a/7ae04155-f769-4a54-9238-d791370ee5c1.5dd3a.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/63/6301a472-f250-4148-b56f-49719b388fea.79423.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/8f/8f94b7c2-7dc0-403a-ab3d-f1aed9569dca.e05da.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/04/049878c99.71e99.json",
+            "size": 8598,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/config.3c4d6.json",
+            "size": 26752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/06/06dacee72.39cf8.json",
+            "size": 547,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0b813df80.6fb7c.json",
+            "size": 24,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/0f/0f7b02c11.c2447.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/07/07136daa-6910-488f-b8ab-0b60fe3994f6.b12ff.json",
+            "size": 117,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/2f/2fb012f3-53a1-4137-9869-e15676565127.796f2.json",
+            "size": 121,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/80/8014424f-ae6c-4906-a048-0e5c81bd724b.bf3b3.json",
+            "size": 118,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/8f/8f67ce59-31bb-4254-8d74-f5d3c637fd60.3e1c0.json",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/67/670961f6-e756-4cfe-bf5f-c15a22021fde.ba2a0.json",
+            "size": 118,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761904578082",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/04/04902a58b.6abfb.json",
+            "size": 812,
+            "status": 200
+          }
+        ]
+      },
+      "HTML": {
+        "count": 1,
+        "size": 302,
+        "encodedSize": 302,
+        "urls": [
+          {
+            "url": "https://www.googletagmanager.com/ns.html?id=GTM-M72CW974",
+            "size": 302,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 45,
+        "size": 114479,
+        "encodedSize": 2153,
+        "urls": [
+          {
+            "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=BFAD6B67B5AF496DB943CC5A87E4B30A&MUID=2EFC2B56E36961C810523DC0E21560FE",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://www.shuangzi6688.com/favicon.ico",
+            "size": 26,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 82,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/7a/7a1fed43-6ad1-4d44-8634-f5125ab26a2f.859a2.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 17,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/1a/1a0b0452d.757c7.png",
+            "size": 22,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/58/58e64a4e-91c2-4851-8922-f5ff5c4b517e.e09ab.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/70/7059f89d-990f-438c-9448-159f05251543.3c15d.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/c2/c2e3e5eb-bb94-43b1-ba45-b978a82e9ff8.7b1cb.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/89/8935792a-0a79-49e6-9807-b73cbd58a906.d275a.png",
+            "size": 31,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/4b/4b150f8b-7321-479f-ab8b-3d8807d2767d.a7755.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/f5/f545688a-13c6-43cf-9021-c7c30883d2f2.8febd.png",
+            "size": 1949,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/68/68e3cd7e-4d1b-444b-b752-94a0693b98a5.cdc14.png",
+            "size": 27,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/20/20603d0f-1076-48da-a88f-0d55b5e7acc2.ea1d1.png",
+            "size": 2327,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/31/31da041c-60ab-4274-9a13-30e992162440.ac993.png",
+            "size": 446,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 21,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/16/1636acd53.ccf5c.png",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/ff/ffa75666-3f71-4e3e-a7a2-5255490ba44e.a60db.png",
+            "size": 29,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1d/1d71d86c2.75629.png",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/8a/8a45eb91-e11a-4142-82d5-47e7940abdc6.cafeb.png",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/bb/bbbe877c-7c3a-4ab0-96fa-93a6a10f3a4f.8a55f.png",
+            "size": 34,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1e/1e4c00317.8d8b4.png",
+            "size": 21654,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/14/14f8d9f85.29ddf.png",
+            "size": 35,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1e/1e0b54af2.e16d5.png",
+            "size": 691,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/17/17a792502.21504.png",
+            "size": 71807,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/97/97fb111c-01f6-419a-955d-8add087b5062.148bf.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/13/13af6fb60.ba8a3.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/12/120a97a68.9218f.png",
+            "size": 39,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/ed/edd215b9-2796-4a05-aaf5-81f96c9281ce.17df6.png",
+            "size": 1038,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/d6/d6d3ca85-4681-47c1-b5dd-d036a9d39ea2.d55c2.png",
+            "size": 1047,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png",
+            "size": 1050,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/61/617323dd-11f4-4dd3-8eec-0caf6b3b45b9.6d707.png",
+            "size": 1187,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png",
+            "size": 40,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png",
+            "size": 1114,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/98/98c8d766-cbb0-47c9-a498-ef5c4cb0a41c.75bb6.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/f9/f9d85fc1-17c6-4258-a330-0cdc4663f85e.90664.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/6b/6b25f6dd-fbda-40fb-a349-a58635a97e8c.b8f57.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/56/567dcd80-8bf4-4535-8a5a-313f1caf078a.5f1d9.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/3f/3f9ee0ad-8ab3-4556-97b5-23877ee3e2af.f720f.png",
+            "size": 42,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/25/2519f30e-ec22-4c5d-bd72-38f2ecc1b612.e003c.png",
+            "size": 37,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/e2/e2c0d866-de30-420e-9e45-280a39ffc19c.cc1d8.png",
+            "size": 41,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/90/90c87a73-a8a2-41b9-9828-6f3713cab3e3.6204b.png",
+            "size": 42,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 27,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 6,
+        "size": 42808,
+        "encodedSize": 185,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/51/51a1601e-9453-4ad7-b2ea-bad9cee9feb3.e2535.mp3",
+            "size": 8485,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/07/07136daa-6910-488f-b8ab-0b60fe3994f6.bc1ee.mp3",
+            "size": 10448,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/67/670961f6-e756-4cfe-bf5f-c15a22021fde.387e7.mp3",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/8f/8f67ce59-31bb-4254-8d74-f5d3c637fd60.ba924.mp3",
+            "size": 23778,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/80/8014424f-ae6c-4906-a048-0e5c81bd724b.a13f0.mp3",
+            "size": 33,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/2f/2fb012f3-53a1-4137-9869-e15676565127.42152.mp3",
+            "size": 31,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "secondVisit": {
+    "totalTime": 28842,
+    "navigationTime": 3804,
+    "totalRequests": 111,
+    "totalSize": 11048573,
+    "totalEncodedSize": 1317067,
+    "fromCacheCount": 92,
+    "failedRequests": 0,
+    "byType": {
+      "Other": {
+        "count": 4,
+        "size": 209995,
+        "encodedSize": 57589,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/?ProductId=ELS&Token=868b6933a94a46906338ed0dc68d64cbd4bafb10749ec6553335c7c0f50abf5cefc0b04622ff3ba0aa6cd4bf3398d533&Lang=zh-CN",
+            "size": 44,
+            "status": 200
+          },
+          {
+            "url": "https://s.go-mpulse.net/boomerang/52EN4-PFEYY-L4RH2-822HZ-XLQJY",
+            "size": 209939,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/md5.txt?ver=1761904600197",
+            "size": 6,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/md5.txt?ver=1761904601388",
+            "size": 6,
+            "status": 200
+          }
+        ]
+      },
+      "CSS": {
+        "count": 1,
+        "size": 2565,
+        "encodedSize": 1138,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/style-mobile.25fc5.css",
+            "size": 2565,
+            "status": 200
+          }
+        ]
+      },
+      "JavaScript": {
+        "count": 9,
+        "size": 6214334,
+        "encodedSize": 1258122,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/src/settings.a0eee.js",
+            "size": 317,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/main.5e8f2.js",
+            "size": 3723,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/cocos2d-js-min.2ba41.js",
+            "size": 1873761,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/index.d0832.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/index.54b75.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/index.c578f.js",
+            "size": 3966511,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/game-sdk-common.js",
+            "size": 44555,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/index.22c7a.js",
+            "size": 463,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/index.3c4d6.js",
+            "size": 324078,
+            "status": 200
+          }
+        ]
+      },
+      "JSON": {
+        "count": 48,
+        "size": 1759474,
+        "encodedSize": 218,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/config.d0832.json",
+            "size": 1433,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/config.54b75.json",
+            "size": 9040,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/config.c578f.json",
+            "size": 7046,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/import/09/0967b326a.1f618.json",
+            "size": 57712,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/72/72e22729-6c0b-40a9-a636-b51862a2aac9.19a60.json",
+            "size": 1285,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/19/19300e21-bfb5-4803-a87b-ca1378a9491f.496ae.json",
+            "size": 194,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/03/035c7799a.013bd.json",
+            "size": 1142,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/01/010e7a925.41dcc.json",
+            "size": 1567,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/hashconfig.json?ver=prod-1.0.51",
+            "size": 167,
+            "status": 200
+          },
+          {
+            "url": "https://c.go-mpulse.net/api/config.json?key=52EN4-PFEYY-L4RH2-822HZ-XLQJY&d=hash.shuangzi6688.com&t=5873015&v=1.720.0&sl=0&si=d340831a-973b-4159-83a8-dc5f6153eb01-t4zqaf&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=1022565",
+            "size": 98,
+            "status": 204
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/globalConfig.json?ver=1761904599975",
+            "size": 30,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/config.22c7a.json",
+            "size": 605280,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0c/0c68b5b5b.8bc86.json",
+            "size": 62770,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0d/0d185caf3.e8a3a.json",
+            "size": 74227,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0e/0e8ee46e4.0a56a.json",
+            "size": 64973,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/hash-common/zh-CN.json?v=1761904600895",
+            "size": 32,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/StandAloneHilo/zh-CN.json?v=1761904600896",
+            "size": 28,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/16/1657529f-3577-414c-9dc1-91273f6f82d4.a1d19.json",
+            "size": 195,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/24/2439b1fb-74f1-4eac-9a3c-3ff7cdca212c.89839.json",
+            "size": 189,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/27/277664fa-90bb-4b05-a209-fa54790bb6c6.48139.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/2d/2db6c5e4-cc60-4d28-859e-4697f5f57791.11fce.json",
+            "size": 189,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/4d/4d96bf16-0d62-47fc-af3e-9595675c49e4.9c2c2.json",
+            "size": 191,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/5e/5ed74bd0-6753-4e2c-8a80-0255c8ebebb8.45c6b.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/0a/0aa827e61.08ba0.json",
+            "size": 21752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/f3/f33e506d-d7a4-4633-a8b9-179d16b57c43.f1081.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/c7/c743769d-f859-4bd0-aa85-5399aee73a04.df094.json",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/b4/b4003ad6-d241-408d-8344-84c6be53550c.82662.json",
+            "size": 204,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ad/ade988e8-13d2-4063-b38b-130baa0604ab.a8be5.json",
+            "size": 179,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/ad/adab49fc-4ed6-4c3a-808d-b95b8e149fdb.e4729.json",
+            "size": 197,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/8f/8f94b7c2-7dc0-403a-ab3d-f1aed9569dca.e05da.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/7a/7ae04155-f769-4a54-9238-d791370ee5c1.5dd3a.json",
+            "size": 188,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/import/63/6301a472-f250-4148-b56f-49719b388fea.79423.json",
+            "size": 199,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/04/049878c99.71e99.json",
+            "size": 8598,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/config.3c4d6.json",
+            "size": 26752,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/06/06dacee72.39cf8.json",
+            "size": 547,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/51/5117b444-f73c-4daa-bda5-6ecc7fc30e98.d1e26.json",
+            "size": 1284,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0bf47d4a-9344-4a3a-aa05-9a8a753ba328.80c4d.json",
+            "size": 797,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/66/660f6910-7656-4bb1-960a-c42d6ff055f4.5a0e7.json",
+            "size": 395,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/a2/a23235d1-15db-4b95-8439-a2e005bfff91.43d76.json",
+            "size": 198,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/import/0b/0b813df80.6fb7c.json",
+            "size": 4052,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/0f/0f7b02c11.c2447.json",
+            "size": 797488,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/07/07136daa-6910-488f-b8ab-0b60fe3994f6.b12ff.json",
+            "size": 117,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/2f/2fb012f3-53a1-4137-9869-e15676565127.796f2.json",
+            "size": 121,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/80/8014424f-ae6c-4906-a048-0e5c81bd724b.bf3b3.json",
+            "size": 118,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/8f/8f67ce59-31bb-4254-8d74-f5d3c637fd60.3e1c0.json",
+            "size": 122,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/i18n/bundle-common/zh-CN.json?ver=1761904601746",
+            "size": 6874,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/import/67/670961f6-e756-4cfe-bf5f-c15a22021fde.ba2a0.json",
+            "size": 118,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/import/04/04902a58b.6abfb.json",
+            "size": 812,
+            "status": 200
+          }
+        ]
+      },
+      "Image": {
+        "count": 43,
+        "size": 2812807,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/favicon-96x96.92e00.png",
+            "size": 9016,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
+            "size": 82,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/7a/7a1fed43-6ad1-4d44-8634-f5125ab26a2f.859a2.png",
+            "size": 98949,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/c7/c7e755f6-060f-4820-84e9-fa2f20538c4d.eaeea.png",
+            "size": 764386,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/e1/e10ba85c-22c9-4b92-af0b-019443d14959.f79ba.png",
+            "size": 758788,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/aa/aa0c4c37-dcbb-4bba-a960-b70cb9d6ecca.a5c9c.png",
+            "size": 772601,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_i18n/native/1a/1a0b0452d.757c7.png",
+            "size": 78113,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/58/58e64a4e-91c2-4851-8922-f5ff5c4b517e.e09ab.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/20/20603d0f-1076-48da-a88f-0d55b5e7acc2.ea1d1.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/31/31da041c-60ab-4274-9a13-30e992162440.ac993.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/f5/f545688a-13c6-43cf-9021-c7c30883d2f2.8febd.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/68/68e3cd7e-4d1b-444b-b752-94a0693b98a5.cdc14.png",
+            "size": 183,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/4b/4b150f8b-7321-479f-ab8b-3d8807d2767d.a7755.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/89/8935792a-0a79-49e6-9807-b73cbd58a906.d275a.png",
+            "size": 12161,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/c2/c2e3e5eb-bb94-43b1-ba45-b978a82e9ff8.7b1cb.png",
+            "size": 12532,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/70/7059f89d-990f-438c-9448-159f05251543.3c15d.png",
+            "size": 11971,
+            "status": 200
+          },
+          {
+            "url": "https://resource.shuangtzu6688.com/bundle-freebet/Bundle_Common/native/2b/2b78a9cb-43f5-42b2-9bb9-5e6a10e754e1.5a46a.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/16/1636acd53.ccf5c.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/ff/ffa75666-3f71-4e3e-a7a2-5255490ba44e.a60db.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/8a/8a45eb91-e11a-4142-82d5-47e7940abdc6.cafeb.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/bb/bbbe877c-7c3a-4ab0-96fa-93a6a10f3a4f.8a55f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1e/1e4c00317.8d8b4.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/14/14f8d9f85.29ddf.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1e/1e0b54af2.e16d5.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/13/13af6fb60.ba8a3.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/17/17a792502.21504.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/97/97fb111c-01f6-419a-955d-8add087b5062.148bf.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/12/120a97a68.9218f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/ed/edd215b9-2796-4a05-aaf5-81f96c9281ce.17df6.png",
+            "size": 1038,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/d6/d6d3ca85-4681-47c1-b5dd-d036a9d39ea2.d55c2.png",
+            "size": 1047,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/61/617323dd-11f4-4dd3-8eec-0caf6b3b45b9.6d707.png",
+            "size": 1187,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/71/71561142-4c83-4933-afca-cb7a17f67053.c06a9.png",
+            "size": 1050,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.83fcc.png",
+            "size": 1114,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/1d/1d71d86c2.75629.png",
+            "size": 53301,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/98/98c8d766-cbb0-47c9-a498-ef5c4cb0a41c.75bb6.png",
+            "size": 62476,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/6b/6b25f6dd-fbda-40fb-a349-a58635a97e8c.b8f57.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/56/567dcd80-8bf4-4535-8a5a-313f1caf078a.5f1d9.png",
+            "size": 1675,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/3f/3f9ee0ad-8ab3-4556-97b5-23877ee3e2af.f720f.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/25/2519f30e-ec22-4c5d-bd72-38f2ecc1b612.e003c.png",
+            "size": 109182,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/e2/e2c0d866-de30-420e-9e45-280a39ffc19c.cc1d8.png",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/f9/f9d85fc1-17c6-4258-a330-0cdc4663f85e.90664.png",
+            "size": 61955,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/main/native/90/90c87a73-a8a2-41b9-9828-6f3713cab3e3.6204b.png",
+            "size": 0,
+            "status": 200
+          }
+        ]
+      },
+      "Audio": {
+        "count": 6,
+        "size": 49398,
+        "encodedSize": 0,
+        "urls": [
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/51/51a1601e-9453-4ad7-b2ea-bad9cee9feb3.e2535.mp3",
+            "size": 8485,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/67/670961f6-e756-4cfe-bf5f-c15a22021fde.387e7.mp3",
+            "size": 6687,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/8f/8f67ce59-31bb-4254-8d74-f5d3c637fd60.ba924.mp3",
+            "size": 23778,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/80/8014424f-ae6c-4906-a048-0e5c81bd724b.a13f0.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/2f/2fb012f3-53a1-4137-9869-e15676565127.42152.mp3",
+            "size": 0,
+            "status": 200
+          },
+          {
+            "url": "https://hash.shuangzi6688.com/StandAloneHilo/assets/resources/native/07/07136daa-6910-488f-b8ab-0b60fe3994f6.bc1ee.mp3",
+            "size": 10448,
+            "status": 200
+          }
+        ]
+      }
+    }
+  },
+  "comparison": {
+    "timeImprovement": -6.933115823817292,
+    "timeSaved": -1870,
+    "sizeReduction": -12841.603615996857,
+    "sizeSaved": -1306890,
+    "cacheHitRate": 82.88288288288288
+  }
+}

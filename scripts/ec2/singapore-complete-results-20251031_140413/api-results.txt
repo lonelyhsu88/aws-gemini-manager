@@ -1,0 +1,19 @@
+=== API 延遲測試 ===
+測試時間: Fri Oct 31 06:04:13 AM UTC 2025
+
+測試: https://ds-r.geminiservice.cc/domains?type=Hash
+  第 1 次: 0.341318s
+  第 2 次: 0.109487s
+  第 3 次: 0.242531s
+  第 4 次: 0.123515s
+  第 5 次: 0.106813s
+  平均: 0.184733s
+
+測試: https://gameinfo-api.geminiservice.cc/api/v1/operator/url/gameInfo?productId=ELS&gameType=StandAlonePlinko
+  第 1 次: 0.289831s
+  第 2 次: 0.108290s
+  第 3 次: 0.184264s
+  第 4 次: 0.099531s
+  第 5 次: 0.120452s
+  平均: 0.160474s
+

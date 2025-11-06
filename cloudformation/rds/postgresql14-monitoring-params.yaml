@@ -1,0 +1,104 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'PostgreSQL 14 parameter group with monitoring and profiling settings - Updated at 2024-03-21'
+
+Resources:
+  PostgresMonitoringParameterGroup:
+    Type: 'AWS::RDS::DBParameterGroup'
+    Properties:
+      Description: 'PostgreSQL 14 parameter group with monitoring and profiling settings v1.1'
+      Family: 'postgres14'  # Specifies PostgreSQL version 14 as the base
+      Parameters:
+        # Enable query logging
+        log_statement: 'all'
+        # Options: 'none', 'ddl', 'mod', 'all'
+        # 'all': Logs every SQL statement
+        # 'mod': Logs data-modifying statements
+        # 'ddl': Logs data definition statements
+        # 'none': Disables logging
+
+        log_min_duration_statement: '1000'
+        # Logs queries running longer than specified milliseconds
+        # 1000ms = 1 second
+        # Helps identify slow queries
+
+        # Query analysis and statistics
+        track_activities: '1'
+        # Enables tracking of currently executing commands
+        # Required for pg_stat_activity view
+
+        track_counts: '1'
+        # Enables collection of row-level statistics
+        # Required for pg_stat_* and pg_statio_* views
+
+        track_io_timing: '1'
+        # Enables timing of database I/O calls
+        # Helps measure I/O performance overhead
+
+        track_functions: 'all'
+        # Options: 'none', 'pl', 'all'
+        # Tracks function execution statistics
+        # 'all': Track both SQL and PL functions
+
+        # Statement statistics (pg_stat_statements)
+        shared_preload_libraries: 'pg_stat_statements'
+        # Required extension for query statistics
+        # Must be loaded at server start
+
+        pg_stat_statements.track: 'all'
+        # What statements to track
+        # 'all': Track all statements including nested ones
+        # 'top': Track only top-level statements
+
+        pg_stat_statements.max: '10000'
+        # Maximum number of statements to track
+        # Higher values consume more shared memory
+
+        # Additional logging parameters
+        log_checkpoints: '1'
+        # Logs each checkpoint operation
+        # Helps monitor I/O activity spikes
+
+        log_connections: '1'
+        # Logs each client connection attempt
+        # Useful for security monitoring
+
+        log_disconnections: '1'
+        # Logs session terminations with duration
+        # Helps track connection patterns
+
+        log_lock_waits: '1'
+        # Logs when a session waits for a lock
+        # Helps identify deadlocks and lock contention
+
+        log_temp_files: '0'
+        # Size in KB above which temp files are logged
+        # '0' means log all temp files
+        # Helps identify queries using disk sorts
+
+        # Autovacuum settings for better performance monitoring
+        autovacuum: '1'
+        # Enables automatic vacuuming
+        # Critical for maintaining table statistics and reclaiming space
+
+        log_autovacuum_min_duration: '250'
+        # Log autovacuum operations longer than 250ms
+        # Helps monitor cleanup operations impact
+
+      Tags:
+        - Key: Environment
+          Value: Stage  # Identifies this as staging environment
+        - Key: Purpose
+          Value: DatabaseMonitoring  # Describes the parameter group's purpose
+
+Outputs:
+  ParameterGroupName:
+    Description: Name of the created DB parameter group
+    Value: !Ref PostgresMonitoringParameterGroup
+    Export:
+      Name: !Sub '${AWS::StackName}-ParameterGroupName'
+
+  ParameterGroupArn:
+    Description: ARN of the created DB parameter group
+    Value: !GetAtt PostgresMonitoringParameterGroup.Arn
+    Export:
+      Name: !Sub '${AWS::StackName}-ParameterGroupArn'

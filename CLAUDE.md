@@ -184,6 +184,26 @@ python3 scripts/rds/check-reboot-history.py
 
 詳細說明請參考: `scripts/rds/README.md`
 
+**Autovacuum 優化**:
+```bash
+# 診斷表狀態
+./scripts/rds/autovacuum/run-optimization.sh diagnose -w '密碼'
+
+# 溫和優化（推薦）- 保持自動化，降低影響
+./scripts/rds/autovacuum/run-optimization.sh optimize-mild -w '密碼'
+
+# 手動排程優化 - 完全控制執行時間
+./scripts/rds/autovacuum/run-optimization.sh optimize-manual -w '密碼'
+
+# 監控 autovacuum 活動
+./scripts/rds/autovacuum/run-optimization.sh monitor -w '密碼'
+
+# 立即執行 VACUUM
+./scripts/rds/autovacuum/run-optimization.sh vacuum -w '密碼'
+```
+
+詳細說明請參考: `scripts/rds/autovacuum/README.md`
+
 ### CloudFormation Management
 ```bash
 # List all CloudFormation stacks

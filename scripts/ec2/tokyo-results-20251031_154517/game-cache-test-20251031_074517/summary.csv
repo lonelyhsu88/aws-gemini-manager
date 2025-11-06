@@ -1,0 +1,7 @@
+Game,FirstVisit(s),SecondVisit(s),Improvement(%),CacheHitRate(%),TimeSaved(s)
+ArcadeBingo,27.21,28.93,-6.3,83.2,-1.72
+BonusBingo,27.26,29.16,-7.0,81.4,-1.90
+MultiPlayerCrash,27.83,26.87,3.5,80.5,0.96
+StandAloneDice,27.11,26.67,1.6,85.6,0.44
+StandAloneMines,28.43,26.65,6.3,85.4,1.78
+平均,27.57,27.66,-0.4,83.2,-0.09

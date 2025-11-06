@@ -1,0 +1,20 @@
+=== 網路診斷結果 ===
+測試時間: Fri Oct 31 07:36:33 AM UTC 2025
+
+DNS 解析速度測試:
+----------------------------------------
+  ds-r.geminiservice.cc: 67ms
+  gameinfo-api.geminiservice.cc: 31ms
+  wallet-api.geminiservice.cc: 23ms
+  www.shuangzi6688.com: 37ms
+
+連接性測試 (HTTPS):
+----------------------------------------
+  https://ds-r.geminiservice.cc: ✓ 可連接
+  https://gameinfo-api.geminiservice.cc: ✓ 可連接
+  https://wallet-api.geminiservice.cc: ✓ 可連接
+
+地理位置信息:
+----------------------------------------
+{status:successcountry:SingaporecountryCode:SGregion:01regionName:Central Singaporecity:Singaporezip:048582lat:1.28009lon:103.851timezone:Asia/Singaporeisp:Amazon.com Inc.org:AWS EC2 (ap-southeast-1)as:AS16509 Amazon.com Inc.query:18.140.199.80}
+
