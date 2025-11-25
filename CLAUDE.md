@@ -92,8 +92,14 @@ aws-gemini-manager/
 │   ├── s3/                            # S3 management scripts
 │   ├── ec2/                           # EC2 management scripts
 │   ├── rds/                           # RDS management scripts
-│   └── cloudwatch/                    # CloudWatch monitoring scripts
-│       └── list-bingo-stress-metrics.sh
+│   ├── cloudwatch/                    # CloudWatch monitoring scripts
+│   │   └── list-bingo-stress-metrics.sh
+│   └── jira/                          # JIRA/Confluence integration scripts
+│       ├── README.md                  # Complete JIRA integration guide
+│       ├── QUICK_REFERENCE.md         # Quick reference and examples
+│       ├── jira_api.py                # Reusable API library
+│       ├── create_from_confluence.py  # Create JIRA from Confluence
+│       └── update_ticket.py           # Update JIRA tickets
 ├── .claude/                           # Claude-specific configuration
 │   └── context.json                   # Structured project context
 └── config/                            # Configuration files
@@ -242,6 +248,112 @@ python3 check_metrics_activity.py
 - `check_metrics_activity.py` - 詳細分析指標活動狀態（Python）
 
 詳細分析報告: `CLOUDWATCH_BINGO_STRESS_ANALYSIS.md`
+
+### JIRA/Confluence Integration
+
+**使用場景**: 從 Slack 會議記錄或 Confluence Release Note 創建 JIRA OPS tickets
+
+**關鍵認證方式** (Self-hosted JIRA/Confluence):
+- ✅ Bearer Token 認證（與 Cloud 版本不同）
+- ❌ 不使用 Basic Auth
+
+**Token 來源**: `/Users/lonelyhsu/gemini/claude-project/daily-report/.env`
+
+#### 快速開始
+
+```bash
+# 從 Confluence Release Note 創建 JIRA
+python3 scripts/jira/create_from_confluence.py \
+  --page-title "20251117_PROD_V1_Release_Note" \
+  --project OPS \
+  --priority High
+
+# 更新 JIRA ticket
+python3 scripts/jira/update_ticket.py \
+  --ticket OPS-814 \
+  --summary "新的標題" \
+  --comment "升級已完成"
+```
+
+#### 可用工具
+
+**API 函數庫** (`scripts/jira/jira_api.py`):
+- `JiraAPI` - JIRA REST API v2 客戶端
+- `ConfluenceAPI` - Confluence REST API 客戶端
+- `SlackAPI` - Slack API 客戶端
+- `JiraFormatter` - JIRA Wiki Markup 格式化工具
+
+**腳本工具**:
+- `scripts/jira/create_from_confluence.py` - 從 Confluence 創建 JIRA ticket
+- `scripts/jira/update_ticket.py` - 更新 JIRA ticket（標題、描述、優先級、評論）
+
+#### API 端點
+
+```python
+# JIRA (Self-hosted Server/Data Center)
+JIRA_URL = "https://jira.ftgaming.cc"
+headers = {'Authorization': f'Bearer {JIRA_API_TOKEN}'}
+
+# Confluence (Self-hosted Server/Data Center)
+CONFLUENCE_URL = "https://confluence.ftgaming.cc"
+headers = {'Authorization': f'Bearer {CONFLUENCE_API_TOKEN}'}
+```
+
+#### 使用範例
+
+**創建 JIRA ticket**:
+```python
+from jira_api import JiraAPI, JiraFormatter
+
+jira = JiraAPI()
+fmt = JiraFormatter()
+
+description = (
+    fmt.heading("Release 資訊", 2) +
+    fmt.unordered_list(["Release Date: 2025/11/17", "Environment: Production"]) +
+    fmt.divider() +
+    fmt.table(['服務', 'Stage'], [['arcade-game', '134']])
+)
+
+result = jira.create_issue(
+    project='OPS',
+    summary='20251117 PROD 升級作業',
+    description=description,
+    priority='High',
+    labels=['release', 'production', '20251117']
+)
+```
+
+**更新 JIRA ticket**:
+```python
+jira.update_issue(
+    ticket_id='OPS-814',
+    summary='新標題',
+    priority='High'
+)
+
+jira.add_comment('OPS-814', '升級已完成')
+```
+
+#### 文檔同步規範
+
+每個 JIRA ticket 都應該創建對應的本地文檔：
+
+**命名規範**: `JIRA_{主題}_{日期}.md`
+
+**範例文檔**:
+- `JIRA_STEAMPUNK2_RESTART_ISSUE.md` (OPS-812)
+- `JIRA_GEMINI_MEETING_20251117.md` (OPS-813)
+- `JIRA_RELEASE_NOTE_20251117.md` (OPS-814)
+
+**文檔開頭必須包含**:
+```markdown
+**JIRA Ticket**: [OPS-XXX](https://jira.ftgaming.cc/browse/OPS-XXX)
+**Created**: YYYY-MM-DD
+**Status**: Open/In Progress/Done
+```
+
+詳細說明請參考: `scripts/jira/README.md`
 
 ## Environment Variables
 

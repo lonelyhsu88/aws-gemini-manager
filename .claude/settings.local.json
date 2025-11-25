@@ -11,9 +11,27 @@
       "Read(//Users/lonelyhsu/gemini/claude-project/**)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "WebFetch(domain:rds.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:ec2.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:eks.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:BB55D1B90C7C737B866422B095F74112.gr7.ap-east-1.eks.amazonaws.com)",
+      "WebFetch(domain:monitoring.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:oidc.ap-northeast-1.amazonaws.com)",
+      "WebFetch(domain:ssm.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:ecs.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:jira.ftgaming.cc)",
+      "WebFetch(domain:slack.com)",
+      "WebFetch(domain:confluence.ftgaming.cc)",
+      "WebFetch(domain:iam.amazonaws.com)",
+      "WebFetch(domain:logs.ap-east-1.amazonaws.com)",
+      "WebFetch(domain:api.ipify.org)"
     ],
     "deny": [],
     "ask": []
+  },
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
   }
 }
