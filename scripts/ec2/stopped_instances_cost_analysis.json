@@ -1,0 +1,1351 @@
+{
+  "generated_at": "2025-11-10T17:40:45.090936",
+  "region": "ap-east-1",
+  "cost_data": {
+    "instances": [
+      {
+        "name": "bingo-prd-cave-game-01",
+        "id": "i-0cad41cd76009bf81",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-04-29 00:16:22+00:00"
+      },
+      {
+        "name": "bingo-stress-srv-01",
+        "id": "i-09f70f9db184462c3",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 38.544,
+        "potential_total_cost": 44.06399999999999,
+        "launch_time": "2025-11-06 07:39:24+00:00"
+      },
+      {
+        "name": "bingo-prd-caribbean-game-01",
+        "id": "i-08a390ddcc6e36405",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-04-29 00:18:28+00:00"
+      },
+      {
+        "name": "bingo-prd-odin-game-01",
+        "id": "i-0908ae7f5b9a1e9f5",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-04-29 00:15:44+00:00"
+      },
+      {
+        "name": "bingo-stress-srv-02",
+        "id": "i-02826084b7654fb7e",
+        "type": "c5.xlarge",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 167.17000000000002,
+        "potential_total_cost": 172.69000000000003,
+        "launch_time": "2025-11-06 07:39:29+00:00"
+      },
+      {
+        "name": "bingo-prd-steampunk-game-01",
+        "id": "i-029405ee4986fa1aa",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-04-29 00:17:10+00:00"
+      },
+      {
+        "name": "bingo-stress-backend-api-01",
+        "id": "i-08961104c598c413e",
+        "type": "t3.large",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 77.088,
+        "potential_total_cost": 82.60799999999999,
+        "launch_time": "2025-11-06 07:39:47+00:00"
+      },
+      {
+        "name": "bingo-stress-gate-01",
+        "id": "i-08691554ce187b5e6",
+        "type": "c5a.xlarge",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 150.38,
+        "potential_total_cost": 155.9,
+        "launch_time": "2025-11-06 08:04:37+00:00"
+      },
+      {
+        "name": "bingo-stress-caribbean-game-01",
+        "id": "i-0e14e44194515d1ad",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 38.544,
+        "potential_total_cost": 44.06399999999999,
+        "launch_time": "2025-11-06 07:39:34+00:00"
+      },
+      {
+        "name": "bingo-prd-lostruins-game-01",
+        "id": "i-093588353849ee3cf",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-04-29 00:19:46+00:00"
+      },
+      {
+        "name": "hash-prd-mines-game-01",
+        "id": "i-0bf680f6ffb9ceb97",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-07-01 01:43:36+00:00"
+      },
+      {
+        "name": "hash-prd-limbo-game-01",
+        "id": "i-00a3e2661cdcc26f2",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:33+00:00"
+      },
+      {
+        "name": "bingo-prd-syncservice-01",
+        "id": "i-09bb0f56f81852875",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 15.155999999999999,
+        "launch_time": "2024-08-06 07:37:16+00:00"
+      },
+      {
+        "name": "hash-prd-dice-game-01",
+        "id": "i-0e92e1e9b58ea4add",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-05-13 00:30:03+00:00"
+      },
+      {
+        "name": "bingo-prd-redis-01",
+        "id": "i-0714a60f442bfb444",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-06-11 00:23:41+00:00"
+      },
+      {
+        "name": "hash-prd-keno-game-01",
+        "id": "i-02b1306c3a3fb9422",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-04-29 00:25:47+00:00"
+      },
+      {
+        "name": "hash-prd-wheel-game-01",
+        "id": "i-0dc052e6bc451d636",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-05-13 00:39:06+00:00"
+      },
+      {
+        "name": "hash-prd-video-poker-game-01",
+        "id": "i-05f3f09489ece3eba",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-04-29 00:24:29+00:00"
+      },
+      {
+        "name": "hash-prd-diamonds-01",
+        "id": "i-02dc44c71f8673d94",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-04-29 00:23:22+00:00"
+      },
+      {
+        "name": "hash-prd-hilo-game-01",
+        "id": "i-0548aeca9dd190498",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:03+00:00"
+      },
+      {
+        "name": "hash-prd-plinko-game-01",
+        "id": "i-0d273ef8dffd7049f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2023-12-18 00:34:44+00:00"
+      },
+      {
+        "name": "hash-prd-crash-game-01",
+        "id": "i-0d3ead6de66c740b9",
+        "type": "t3.micro",
+        "storage_gb": 50,
+        "az": "ap-east-1b",
+        "current_storage_cost": 4.6,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 14.235999999999999,
+        "launch_time": "2024-04-29 00:27:17+00:00"
+      },
+      {
+        "name": "hash-prd-plinkocl-game-01",
+        "id": "i-01e3aa080e8c8b3ed",
+        "type": "t3.medium",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 38.544,
+        "potential_total_cost": 41.303999999999995,
+        "launch_time": "2025-07-21 00:14:44+00:00"
+      },
+      {
+        "name": "hash-prd-minescl-game-01",
+        "id": "i-03fad737441972b3b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:22+00:00"
+      },
+      {
+        "name": "prd-loyalty-srv-01",
+        "id": "i-0adfbe22ab0170c10",
+        "type": "t3.large",
+        "storage_gb": 100,
+        "az": "ap-east-1b",
+        "current_storage_cost": 9.2,
+        "potential_compute_cost": 77.088,
+        "potential_total_cost": 86.288,
+        "launch_time": "2025-04-28 01:33:46+00:00"
+      },
+      {
+        "name": "bingo-prd-magic-game-01",
+        "id": "i-0c70828b9908db863",
+        "type": "t3.small",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "current_storage_cost": 5.52,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 24.791999999999998,
+        "launch_time": "2025-03-24 00:17:03+00:00"
+      },
+      {
+        "name": "hash-prd-crashcl-game-01",
+        "id": "i-032f37acb16addb36",
+        "type": "t3.micro",
+        "storage_gb": 50,
+        "az": "ap-east-1a",
+        "current_storage_cost": 4.6,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 14.235999999999999,
+        "launch_time": "2024-04-29 00:29:07+00:00"
+      },
+      {
+        "name": "hash-prd-limbocl-game-01",
+        "id": "i-0b85ce3ea96a5b500",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2023-12-29 03:26:56+00:00"
+      },
+      {
+        "name": "hash-prd-minesma-game-01",
+        "id": "i-041fe930a00b4846c",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:03+00:00"
+      },
+      {
+        "name": "hash-prd-plinkogr-game-01",
+        "id": "i-08bf8092effb8383a",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2024-08-19 23:17:09+00:00"
+      },
+      {
+        "name": "hash-prd-hilocl-game-01",
+        "id": "i-0105f1a8000ec7da7",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:53+00:00"
+      },
+      {
+        "name": "hash-prd-aviator-game-01",
+        "id": "i-06e5b6cf890ce6442",
+        "type": "t3.small",
+        "storage_gb": 45,
+        "az": "ap-east-1b",
+        "current_storage_cost": 4.14,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 23.412,
+        "launch_time": "2025-03-31 00:22:38+00:00"
+      },
+      {
+        "name": "hash-prd-minesne-game-01",
+        "id": "i-0511d82c5c933fa11",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:13+00:00"
+      },
+      {
+        "name": "hash-prd-hilone-game-01",
+        "id": "i-00937bc8403afe767",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 11.936,
+        "launch_time": "2024-04-25 01:16:16+00:00"
+      },
+      {
+        "name": "hash-prd-multihilo-game-01",
+        "id": "i-0af981b61159f93e0",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 11.936,
+        "launch_time": "2024-05-09 02:56:19+00:00"
+      },
+      {
+        "name": "hash-prd-crashne-game-01",
+        "id": "i-0d4f5fd402f9883eb",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 11.936,
+        "launch_time": "2024-05-23 00:51:58+00:00"
+      },
+      {
+        "name": "hash-prd-limbone-game-01",
+        "id": "i-0ec1a99358ccfcb2b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:33+00:00"
+      },
+      {
+        "name": "hash-prd-plinkone-game-01",
+        "id": "i-02ddad7444c255b88",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:33+00:00"
+      },
+      {
+        "name": "bingo-prd-bonus-game-01",
+        "id": "i-0df24cebcdac46537",
+        "type": "t3.medium",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 38.544,
+        "potential_total_cost": 41.303999999999995,
+        "launch_time": "2024-07-05 05:33:06+00:00"
+      },
+      {
+        "name": "hash-prd-limbogr-game-01",
+        "id": "i-0171b57598332fc0e",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 9.636,
+        "potential_total_cost": 12.395999999999999,
+        "launch_time": "2024-06-17 02:12:16+00:00"
+      },
+      {
+        "name": "hash-prd-hilogr-game-01",
+        "id": "i-0360848b9a7d062b4",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 21.572,
+        "launch_time": "2024-07-04 08:54:18+00:00"
+      },
+      {
+        "name": "hash-prd-minesgr-game-01",
+        "id": "i-05ea349ce1fd8472f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:02+00:00"
+      },
+      {
+        "name": "hash-prd-crashgr-game-01",
+        "id": "i-07232d0d96320e79a",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 21.572,
+        "launch_time": "2024-07-04 08:32:47+00:00"
+      },
+      {
+        "name": "hash-prd-luckydrop-game-01",
+        "id": "i-02f01e6fd455d3439",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.3,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 21.572,
+        "launch_time": "2024-07-18 01:06:41+00:00"
+      },
+      {
+        "name": "bingo-prd-maple-game-01",
+        "id": "i-0971d2553116cfa63",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-01-13 00:16:31+00:00"
+      },
+      {
+        "name": "hash-prd-luckydropcoc-game-01",
+        "id": "i-0ad3a5854fd8e887b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-10 00:34:23+00:00"
+      },
+      {
+        "name": "hash-prd-minesraider-game-01",
+        "id": "i-0bb617c05e5e1bf63",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2024-10-28 01:29:52+00:00"
+      },
+      {
+        "name": "hash-prd-luckyhilo-game-01",
+        "id": "i-04abe1e44976bd73f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:53+00:00"
+      },
+      {
+        "name": "hash-prd-dragontower-game-01",
+        "id": "i-0621f59337094a0b7",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2024-12-03 01:54:19+00:00"
+      },
+      {
+        "name": "bingo-prd-arcade-game-01",
+        "id": "i-0ac8019ed8584456a",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-01-08 02:11:30+00:00"
+      },
+      {
+        "name": "hash-prd-luckydropgx-game-01",
+        "id": "i-08cbdfb42729a9138",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-24 00:17:22+00:00"
+      },
+      {
+        "name": "hash-prd-minesca-game-01",
+        "id": "i-01b50b93d76eb1df3",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-08-28 09:44:20+00:00"
+      },
+      {
+        "name": "bingo-prd-egghunt-game-01",
+        "id": "i-00bb69ea5bb291589",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-02-19 06:09:16+00:00"
+      },
+      {
+        "name": "bingo-prd-steampunk2-game-01",
+        "id": "i-07311f5e21674e4a1",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-03-26 15:32:46+00:00"
+      },
+      {
+        "name": "hash-prd-minespm-game-01",
+        "id": "i-08b9001e30572d205",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-04-07 01:31:10+00:00"
+      },
+      {
+        "name": "hash-prd-aviator2-game-01",
+        "id": "i-0df1ecc7c7f8bea69",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-04-28 08:00:16+00:00"
+      },
+      {
+        "name": "hash-prd-minessc-game-01",
+        "id": "i-0fadf3a40054f0244",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-06-02 04:27:16+00:00"
+      },
+      {
+        "name": "arcade-prd-multiboomers-game-01",
+        "id": "i-085d71f6e144818ea",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-06-02 09:15:27+00:00"
+      },
+      {
+        "name": "hash-prd-egypthilo-game-01",
+        "id": "i-073dc09d1d2ae7660",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-07-02 02:56:36+00:00"
+      },
+      {
+        "name": "arcade-prd-forestteaparty-game-01",
+        "id": "i-0c3bfa9e2ad5161ed",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-08-11 07:13:51+00:00"
+      },
+      {
+        "name": "hash-prd-luckydropcoc2-game-01",
+        "id": "i-0358460fce5ffbcb3",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-08-25 01:51:26+00:00"
+      },
+      {
+        "name": "arcade-prd-wilddiggr-game-01",
+        "id": "i-069b9b7a08c25656d",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-09-22 08:16:14+00:00"
+      },
+      {
+        "name": "hash-prd-aviator2xin-game-01",
+        "id": "i-0ea1a2b608ab63afd",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-09-24 03:31:55+00:00"
+      },
+      {
+        "name": "arcade-prd-goldenclover-game-01",
+        "id": "i-08b92241a8a14a2e0",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "current_storage_cost": 2.76,
+        "potential_compute_cost": 19.272,
+        "potential_total_cost": 22.031999999999996,
+        "launch_time": "2025-10-15 02:51:56+00:00"
+      }
+    ],
+    "instance_type_stats": {
+      "t3.micro": {
+        "count": 18,
+        "storage_gb": 745,
+        "current_cost": 68.53999999999999,
+        "potential_compute_cost": 173.44799999999995,
+        "potential_total_cost": 241.98799999999994
+      },
+      "t3.medium": {
+        "count": 4,
+        "storage_gb": 180,
+        "current_cost": 16.56,
+        "potential_compute_cost": 154.176,
+        "potential_total_cost": 170.736
+      },
+      "c5.xlarge": {
+        "count": 1,
+        "storage_gb": 60,
+        "current_cost": 5.52,
+        "potential_compute_cost": 167.17000000000002,
+        "potential_total_cost": 172.69000000000003
+      },
+      "t3.large": {
+        "count": 2,
+        "storage_gb": 160,
+        "current_cost": 14.719999999999999,
+        "potential_compute_cost": 154.176,
+        "potential_total_cost": 168.896
+      },
+      "c5a.xlarge": {
+        "count": 1,
+        "storage_gb": 60,
+        "current_cost": 5.52,
+        "potential_compute_cost": 150.38,
+        "potential_total_cost": 155.9
+      },
+      "t3.small": {
+        "count": 38,
+        "storage_gb": 1170,
+        "current_cost": 107.64000000000004,
+        "potential_compute_cost": 732.3360000000004,
+        "potential_total_cost": 839.9760000000003
+      }
+    },
+    "totals": {
+      "count": 64,
+      "total_storage_gb": 2375,
+      "current_storage_cost": 218.49999999999986,
+      "potential_compute_cost": 1531.6859999999986,
+      "potential_total_cost": 1750.1859999999976
+    }
+  },
+  "categories": {
+    "Bingo Games": [
+      {
+        "id": "i-0cad41cd76009bf81",
+        "type": "t3.micro",
+        "name": "bingo-prd-cave-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:16:22+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-08a390ddcc6e36405",
+        "type": "t3.micro",
+        "name": "bingo-prd-caribbean-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:18:28+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-0908ae7f5b9a1e9f5",
+        "type": "t3.micro",
+        "name": "bingo-prd-odin-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:15:44+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-029405ee4986fa1aa",
+        "type": "t3.micro",
+        "name": "bingo-prd-steampunk-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:17:10+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-093588353849ee3cf",
+        "type": "t3.micro",
+        "name": "bingo-prd-lostruins-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:19:46+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-0c70828b9908db863",
+        "type": "t3.small",
+        "name": "bingo-prd-magic-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-03-24 00:17:03+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-0df24cebcdac46537",
+        "type": "t3.medium",
+        "name": "bingo-prd-bonus-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2024-07-05 05:33:06+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-0971d2553116cfa63",
+        "type": "t3.small",
+        "name": "bingo-prd-maple-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2025-01-13 00:16:31+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-0ac8019ed8584456a",
+        "type": "t3.small",
+        "name": "bingo-prd-arcade-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-01-08 02:11:30+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-00bb69ea5bb291589",
+        "type": "t3.small",
+        "name": "bingo-prd-egghunt-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-02-19 06:09:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      },
+      {
+        "id": "i-07311f5e21674e4a1",
+        "type": "t3.small",
+        "name": "bingo-prd-steampunk2-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-26 15:32:46+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      }
+    ],
+    "Hash Games": [
+      {
+        "id": "i-0bf680f6ffb9ceb97",
+        "type": "t3.small",
+        "name": "hash-prd-mines-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2025-07-01 01:43:36+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-00a3e2661cdcc26f2",
+        "type": "t3.small",
+        "name": "hash-prd-limbo-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2025-03-24 00:17:33+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0e92e1e9b58ea4add",
+        "type": "t3.micro",
+        "name": "hash-prd-dice-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2024-05-13 00:30:03+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-02b1306c3a3fb9422",
+        "type": "t3.micro",
+        "name": "hash-prd-keno-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "launch_time": "2024-04-29 00:25:47+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0dc052e6bc451d636",
+        "type": "t3.micro",
+        "name": "hash-prd-wheel-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "launch_time": "2024-05-13 00:39:06+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-05f3f09489ece3eba",
+        "type": "t3.micro",
+        "name": "hash-prd-video-poker-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "launch_time": "2024-04-29 00:24:29+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-02dc44c71f8673d94",
+        "type": "t3.micro",
+        "name": "hash-prd-diamonds-01",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "launch_time": "2024-04-29 00:23:22+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0548aeca9dd190498",
+        "type": "t3.small",
+        "name": "hash-prd-hilo-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:03+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0d273ef8dffd7049f",
+        "type": "t3.small",
+        "name": "hash-prd-plinko-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2023-12-18 00:34:44+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0d3ead6de66c740b9",
+        "type": "t3.micro",
+        "name": "hash-prd-crash-game-01",
+        "storage_gb": 50,
+        "az": "ap-east-1b",
+        "launch_time": "2024-04-29 00:27:17+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-01e3aa080e8c8b3ed",
+        "type": "t3.medium",
+        "name": "hash-prd-plinkocl-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-07-21 00:14:44+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-03fad737441972b3b",
+        "type": "t3.small",
+        "name": "hash-prd-minescl-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:22+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-032f37acb16addb36",
+        "type": "t3.micro",
+        "name": "hash-prd-crashcl-game-01",
+        "storage_gb": 50,
+        "az": "ap-east-1a",
+        "launch_time": "2024-04-29 00:29:07+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0b85ce3ea96a5b500",
+        "type": "t3.small",
+        "name": "hash-prd-limbocl-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2023-12-29 03:26:56+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-041fe930a00b4846c",
+        "type": "t3.small",
+        "name": "hash-prd-minesma-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2025-03-24 00:17:03+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-08bf8092effb8383a",
+        "type": "t3.small",
+        "name": "hash-prd-plinkogr-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2024-08-19 23:17:09+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0105f1a8000ec7da7",
+        "type": "t3.small",
+        "name": "hash-prd-hilocl-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:53+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-06e5b6cf890ce6442",
+        "type": "t3.small",
+        "name": "hash-prd-aviator-game-01",
+        "storage_gb": 45,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-31 00:22:38+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0511d82c5c933fa11",
+        "type": "t3.small",
+        "name": "hash-prd-minesne-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:13+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-00937bc8403afe767",
+        "type": "t3.micro",
+        "name": "hash-prd-hilone-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-04-25 01:16:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0af981b61159f93e0",
+        "type": "t3.micro",
+        "name": "hash-prd-multihilo-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-05-09 02:56:19+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0d4f5fd402f9883eb",
+        "type": "t3.micro",
+        "name": "hash-prd-crashne-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-05-23 00:51:58+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0ec1a99358ccfcb2b",
+        "type": "t3.small",
+        "name": "hash-prd-limbone-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:33+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-02ddad7444c255b88",
+        "type": "t3.small",
+        "name": "hash-prd-plinkone-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:33+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0171b57598332fc0e",
+        "type": "t3.micro",
+        "name": "hash-prd-limbogr-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2024-06-17 02:12:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0360848b9a7d062b4",
+        "type": "t3.small",
+        "name": "hash-prd-hilogr-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-07-04 08:54:18+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-05ea349ce1fd8472f",
+        "type": "t3.small",
+        "name": "hash-prd-minesgr-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:02+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-07232d0d96320e79a",
+        "type": "t3.small",
+        "name": "hash-prd-crashgr-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-07-04 08:32:47+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-02f01e6fd455d3439",
+        "type": "t3.small",
+        "name": "hash-prd-luckydrop-game-01",
+        "storage_gb": 25,
+        "az": "ap-east-1b",
+        "launch_time": "2024-07-18 01:06:41+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0ad3a5854fd8e887b",
+        "type": "t3.small",
+        "name": "hash-prd-luckydropcoc-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1a",
+        "launch_time": "2025-03-10 00:34:23+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0bb617c05e5e1bf63",
+        "type": "t3.small",
+        "name": "hash-prd-minesraider-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2024-10-28 01:29:52+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-04abe1e44976bd73f",
+        "type": "t3.small",
+        "name": "hash-prd-luckyhilo-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:53+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0621f59337094a0b7",
+        "type": "t3.small",
+        "name": "hash-prd-dragontower-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2024-12-03 01:54:19+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-08cbdfb42729a9138",
+        "type": "t3.small",
+        "name": "hash-prd-luckydropgx-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-03-24 00:17:22+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-01b50b93d76eb1df3",
+        "type": "t3.small",
+        "name": "hash-prd-minesca-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-08-28 09:44:20+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-08b9001e30572d205",
+        "type": "t3.small",
+        "name": "hash-prd-minespm-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-04-07 01:31:10+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0df1ecc7c7f8bea69",
+        "type": "t3.small",
+        "name": "hash-prd-aviator2-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-04-28 08:00:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0fadf3a40054f0244",
+        "type": "t3.small",
+        "name": "hash-prd-minessc-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-06-02 04:27:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-073dc09d1d2ae7660",
+        "type": "t3.small",
+        "name": "hash-prd-egypthilo-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-07-02 02:56:36+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0358460fce5ffbcb3",
+        "type": "t3.small",
+        "name": "hash-prd-luckydropcoc2-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-08-25 01:51:26+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0ea1a2b608ab63afd",
+        "type": "t3.small",
+        "name": "hash-prd-aviator2xin-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-09-24 03:31:55+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      }
+    ],
+    "Arcade Games": [
+      {
+        "id": "i-085d71f6e144818ea",
+        "type": "t3.small",
+        "name": "arcade-prd-multiboomers-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-06-02 09:15:27+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-0c3bfa9e2ad5161ed",
+        "type": "t3.small",
+        "name": "arcade-prd-forestteaparty-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-08-11 07:13:51+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-069b9b7a08c25656d",
+        "type": "t3.small",
+        "name": "arcade-prd-wilddiggr-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-09-22 08:16:14+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      },
+      {
+        "id": "i-08b92241a8a14a2e0",
+        "type": "t3.small",
+        "name": "arcade-prd-goldenclover-game-01",
+        "storage_gb": 30,
+        "az": "ap-east-1b",
+        "launch_time": "2025-10-15 02:51:56+00:00",
+        "state_reason": "User initiated (2025-11-03 02:09:20 GMT)"
+      }
+    ],
+    "Stress Testing": [
+      {
+        "id": "i-09f70f9db184462c3",
+        "type": "t3.medium",
+        "name": "bingo-stress-srv-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-11-06 07:39:24+00:00",
+        "state_reason": "User initiated (2025-11-06 16:05:07 GMT)"
+      },
+      {
+        "id": "i-02826084b7654fb7e",
+        "type": "c5.xlarge",
+        "name": "bingo-stress-srv-02",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-11-06 07:39:29+00:00",
+        "state_reason": "User initiated (2025-11-06 16:05:11 GMT)"
+      },
+      {
+        "id": "i-08961104c598c413e",
+        "type": "t3.large",
+        "name": "bingo-stress-backend-api-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-11-06 07:39:47+00:00",
+        "state_reason": "User initiated (2025-11-06 16:05:14 GMT)"
+      },
+      {
+        "id": "i-08691554ce187b5e6",
+        "type": "c5a.xlarge",
+        "name": "bingo-stress-gate-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-11-06 08:04:37+00:00",
+        "state_reason": "User initiated (2025-11-06 16:05:18 GMT)"
+      },
+      {
+        "id": "i-0e14e44194515d1ad",
+        "type": "t3.medium",
+        "name": "bingo-stress-caribbean-game-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2025-11-06 07:39:34+00:00",
+        "state_reason": "User initiated (2025-11-06 16:05:22 GMT)"
+      }
+    ],
+    "Infrastructure": [
+      {
+        "id": "i-09bb0f56f81852875",
+        "type": "t3.micro",
+        "name": "bingo-prd-syncservice-01",
+        "storage_gb": 60,
+        "az": "ap-east-1a",
+        "launch_time": "2024-08-06 07:37:16+00:00",
+        "state_reason": "User initiated (2025-11-03 02:12:21 GMT)"
+      },
+      {
+        "id": "i-0714a60f442bfb444",
+        "type": "t3.micro",
+        "name": "bingo-prd-redis-01",
+        "storage_gb": 30,
+        "az": "ap-east-1c",
+        "launch_time": "2024-06-11 00:23:41+00:00",
+        "state_reason": "User initiated (2025-11-03 02:12:30 GMT)"
+      },
+      {
+        "id": "i-0adfbe22ab0170c10",
+        "type": "t3.large",
+        "name": "prd-loyalty-srv-01",
+        "storage_gb": 100,
+        "az": "ap-east-1b",
+        "launch_time": "2025-04-28 01:33:46+00:00",
+        "state_reason": "User initiated (2025-11-03 02:08:21 GMT)"
+      }
+    ]
+  }
+}

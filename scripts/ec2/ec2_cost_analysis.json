@@ -1,0 +1,928 @@
+{
+  "running": {
+    "instances": [
+      {
+        "name": "bingo-rel-srv-01",
+        "id": "i-0156659c38fa6ee66",
+        "type": "t3.xlarge",
+        "storage_gb": 50,
+        "compute_cost": 154.176,
+        "storage_cost": 4.6,
+        "total_cost": 158.77599999999998
+      },
+      {
+        "name": "gemini-jenkins-slave-02",
+        "id": "i-0418777b5635d6e76",
+        "type": "t3.small",
+        "storage_gb": 50,
+        "compute_cost": 19.272,
+        "storage_cost": 4.6,
+        "total_cost": 23.872
+      },
+      {
+        "name": "hash-rel-srv-01",
+        "id": "i-09f5b89a51db5cb7e",
+        "type": "t3.large",
+        "storage_gb": 200,
+        "compute_cost": 77.088,
+        "storage_cost": 18.4,
+        "total_cost": 95.488
+      },
+      {
+        "name": "bingo-prd-gate-01",
+        "id": "i-0a44072aece2b152d",
+        "type": "t3.large",
+        "storage_gb": 60,
+        "compute_cost": 77.088,
+        "storage_cost": 5.52,
+        "total_cost": 82.60799999999999
+      },
+      {
+        "name": "prd-backend-api-01",
+        "id": "i-0bc1598c8f115d2cf",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "compute_cost": 38.544,
+        "storage_cost": 5.52,
+        "total_cost": 44.06399999999999
+      },
+      {
+        "name": "bingo-prd-ngx-01",
+        "id": "i-04f10fb3a2f51a349",
+        "type": "t3.small",
+        "storage_gb": 60,
+        "compute_cost": 19.272,
+        "storage_cost": 5.52,
+        "total_cost": 24.791999999999998
+      },
+      {
+        "name": "portal-demo-ngx-01",
+        "id": "i-0a6facecc6646989e",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 9.636,
+        "storage_cost": 5.52,
+        "total_cost": 15.155999999999999
+      },
+      {
+        "name": "els-deploy-srv-01",
+        "id": "i-022db9e62aa313419",
+        "type": "t3.small",
+        "storage_gb": 100,
+        "compute_cost": 19.272,
+        "storage_cost": 9.2,
+        "total_cost": 28.471999999999998
+      },
+      {
+        "name": "hash-prd-gate-01",
+        "id": "i-038d9e1c293587c56",
+        "type": "t3.large",
+        "storage_gb": 200,
+        "compute_cost": 77.088,
+        "storage_cost": 18.4,
+        "total_cost": 95.488
+      },
+      {
+        "name": "hash-prd-ngx-01",
+        "id": "i-02a6f07f20bba42a6",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 19.272,
+        "storage_cost": 2.76,
+        "total_cost": 22.031999999999996
+      },
+      {
+        "name": "gemini-jump-srv-01",
+        "id": "i-08d21e97ba490faf6",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "compute_cost": 38.544,
+        "storage_cost": 5.52,
+        "total_cost": 44.06399999999999
+      },
+      {
+        "name": "gemini-elk-prd-01",
+        "id": "i-0283c28d4f94b8f68",
+        "type": "c5a.2xlarge",
+        "storage_gb": 1560,
+        "compute_cost": 300.76,
+        "storage_cost": 143.52,
+        "total_cost": 444.28
+      },
+      {
+        "name": "gemini-jira",
+        "id": "i-06597e04448a24b6c",
+        "type": "c5a.xlarge",
+        "storage_gb": 100,
+        "compute_cost": 150.38,
+        "storage_cost": 9.2,
+        "total_cost": 159.57999999999998
+      },
+      {
+        "name": "gemini-gitlab",
+        "id": "i-00b89a08e62a762a9",
+        "type": "c5a.xlarge",
+        "storage_gb": 250,
+        "compute_cost": 150.38,
+        "storage_cost": 23.0,
+        "total_cost": 173.38
+      },
+      {
+        "name": "gemini-confluence",
+        "id": "i-0e978ccf37bfa3b8b",
+        "type": "c5a.xlarge",
+        "storage_gb": 300,
+        "compute_cost": 150.38,
+        "storage_cost": 27.599999999999998,
+        "total_cost": 177.98
+      },
+      {
+        "name": "gemini-common-ngx-01",
+        "id": "i-0b7bbb281d86883f2",
+        "type": "t3.small",
+        "storage_gb": 50,
+        "compute_cost": 19.272,
+        "storage_cost": 4.6,
+        "total_cost": 23.872
+      },
+      {
+        "name": "gemini-jenkins-master",
+        "id": "i-0aba4c4530ac573e8",
+        "type": "c5a.xlarge",
+        "storage_gb": 30,
+        "compute_cost": 150.38,
+        "storage_cost": 2.76,
+        "total_cost": 153.14
+      },
+      {
+        "name": "gemini-jenkins-slave-01",
+        "id": "i-0022ff0301db0bf1f",
+        "type": "t3.small",
+        "storage_gb": 80,
+        "compute_cost": 19.272,
+        "storage_cost": 7.359999999999999,
+        "total_cost": 26.631999999999998
+      },
+      {
+        "name": "gemini-monitor-01",
+        "id": "i-040c741a76a42169b",
+        "type": "t3.medium",
+        "storage_gb": 160,
+        "compute_cost": 38.544,
+        "storage_cost": 14.719999999999999,
+        "total_cost": 53.263999999999996
+      },
+      {
+        "name": "gemini-elk-rel-01",
+        "id": "i-0743f603627230870",
+        "type": "t3.xlarge",
+        "storage_gb": 180,
+        "compute_cost": 154.176,
+        "storage_cost": 16.56,
+        "total_cost": 170.736
+      },
+      {
+        "name": "gemini-prometheus-n8n-01",
+        "id": "i-06ff53ed9ffb2e1de",
+        "type": "t3.medium",
+        "storage_gb": 100,
+        "compute_cost": 38.544,
+        "storage_cost": 9.2,
+        "total_cost": 47.744
+      },
+      {
+        "name": "prd-mgmt-srv-01",
+        "id": "i-016649263fc5505b0",
+        "type": "t3.small",
+        "storage_gb": 100,
+        "compute_cost": 19.272,
+        "storage_cost": 9.2,
+        "total_cost": 28.471999999999998
+      },
+      {
+        "name": "gemini-prd-logstash-01",
+        "id": "i-0b3f2551636dfdbf1",
+        "type": "t3.large",
+        "storage_gb": 60,
+        "compute_cost": 77.088,
+        "storage_cost": 5.52,
+        "total_cost": 82.60799999999999
+      },
+      {
+        "name": "gemini-vpn",
+        "id": "i-0cb4becd6ecc52aeb",
+        "type": "t3.micro",
+        "storage_gb": 20,
+        "compute_cost": 9.636,
+        "storage_cost": 1.8399999999999999,
+        "total_cost": 11.475999999999999
+      },
+      {
+        "name": "arcade-rel-srv-01",
+        "id": "i-0845e488b033a51b2",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 19.272,
+        "storage_cost": 2.76,
+        "total_cost": 22.031999999999996
+      },
+      {
+        "name": "arcade-prd-gate-01",
+        "id": "i-0b9cf2eaf653ddc04",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 19.272,
+        "storage_cost": 2.76,
+        "total_cost": 22.031999999999996
+      },
+      {
+        "name": "gemini-game-prd-gemini-base-Node",
+        "id": "i-00e6a6f8c67e5eeba",
+        "type": "c5a.xlarge",
+        "storage_gb": 70,
+        "compute_cost": 150.38,
+        "storage_cost": 6.4399999999999995,
+        "total_cost": 156.82
+      },
+      {
+        "name": "gemini-game-prd-gemini-bg-Node",
+        "id": "i-0ef679b8b2cf01861",
+        "type": "c5a.xlarge",
+        "storage_gb": 100,
+        "compute_cost": 150.38,
+        "storage_cost": 9.2,
+        "total_cost": 159.57999999999998
+      },
+      {
+        "name": "gemini-game-prd-gemini-hash-Node",
+        "id": "i-04caa23f94167266f",
+        "type": "c5a.xlarge",
+        "storage_gb": 100,
+        "compute_cost": 150.38,
+        "storage_cost": 9.2,
+        "total_cost": 159.57999999999998
+      },
+      {
+        "name": "gemini-game-prd-gemini-arcade-Node",
+        "id": "i-0cf2aa664d4740c7e",
+        "type": "c5a.xlarge",
+        "storage_gb": 120,
+        "compute_cost": 150.38,
+        "storage_cost": 11.04,
+        "total_cost": 161.42
+      },
+      {
+        "name": "gemini-game-prd-gemini-base-Node",
+        "id": "i-09e3955191da6ce1f",
+        "type": "c5a.xlarge",
+        "storage_gb": 60,
+        "compute_cost": 150.38,
+        "storage_cost": 5.52,
+        "total_cost": 155.9
+      },
+      {
+        "name": "gemini-game-prd-gemini-hash-Node",
+        "id": "i-0a767b5cf0c79ec7f",
+        "type": "c5a.xlarge",
+        "storage_gb": 100,
+        "compute_cost": 150.38,
+        "storage_cost": 9.2,
+        "total_cost": 159.57999999999998
+      },
+      {
+        "name": "gemini-game-prd-gemini-bg-Node",
+        "id": "i-00b4fa9eb95440011",
+        "type": "c5a.xlarge",
+        "storage_gb": 100,
+        "compute_cost": 150.38,
+        "storage_cost": 9.2,
+        "total_cost": 159.57999999999998
+      },
+      {
+        "name": "gemini-game-prd-gemini-base-Node",
+        "id": "i-0eb6f2ce976d14cf6",
+        "type": "c5a.xlarge",
+        "storage_gb": 110,
+        "compute_cost": 150.38,
+        "storage_cost": 10.12,
+        "total_cost": 160.5
+      }
+    ],
+    "total_compute": 3068.9200000000005,
+    "total_storage": 436.0799999999999,
+    "total": 3505.000000000001
+  },
+  "stopped": {
+    "instances": [
+      {
+        "name": "bingo-prd-cave-game-01",
+        "id": "i-0cad41cd76009bf81",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-stress-srv-01",
+        "id": "i-09f70f9db184462c3",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-prd-caribbean-game-01",
+        "id": "i-08a390ddcc6e36405",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-prd-odin-game-01",
+        "id": "i-0908ae7f5b9a1e9f5",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-stress-srv-02",
+        "id": "i-02826084b7654fb7e",
+        "type": "c5.xlarge",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-prd-steampunk-game-01",
+        "id": "i-029405ee4986fa1aa",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-stress-backend-api-01",
+        "id": "i-08961104c598c413e",
+        "type": "t3.large",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-stress-gate-01",
+        "id": "i-08691554ce187b5e6",
+        "type": "c5a.xlarge",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-stress-caribbean-game-01",
+        "id": "i-0e14e44194515d1ad",
+        "type": "t3.medium",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "bingo-prd-lostruins-game-01",
+        "id": "i-093588353849ee3cf",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "hash-prd-mines-game-01",
+        "id": "i-0bf680f6ffb9ceb97",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-limbo-game-01",
+        "id": "i-00a3e2661cdcc26f2",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-syncservice-01",
+        "id": "i-09bb0f56f81852875",
+        "type": "t3.micro",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "hash-prd-dice-game-01",
+        "id": "i-0e92e1e9b58ea4add",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-redis-01",
+        "id": "i-0714a60f442bfb444",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-keno-game-01",
+        "id": "i-02b1306c3a3fb9422",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-wheel-game-01",
+        "id": "i-0dc052e6bc451d636",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-video-poker-game-01",
+        "id": "i-05f3f09489ece3eba",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-diamonds-01",
+        "id": "i-02dc44c71f8673d94",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-hilo-game-01",
+        "id": "i-0548aeca9dd190498",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-plinko-game-01",
+        "id": "i-0d273ef8dffd7049f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-crash-game-01",
+        "id": "i-0d3ead6de66c740b9",
+        "type": "t3.micro",
+        "storage_gb": 50,
+        "compute_cost": 0,
+        "storage_cost": 4.6,
+        "total_cost": 4.6
+      },
+      {
+        "name": "hash-prd-plinkocl-game-01",
+        "id": "i-01e3aa080e8c8b3ed",
+        "type": "t3.medium",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minescl-game-01",
+        "id": "i-03fad737441972b3b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "prd-loyalty-srv-01",
+        "id": "i-0adfbe22ab0170c10",
+        "type": "t3.large",
+        "storage_gb": 100,
+        "compute_cost": 0,
+        "storage_cost": 9.2,
+        "total_cost": 9.2
+      },
+      {
+        "name": "bingo-prd-magic-game-01",
+        "id": "i-0c70828b9908db863",
+        "type": "t3.small",
+        "storage_gb": 60,
+        "compute_cost": 0,
+        "storage_cost": 5.52,
+        "total_cost": 5.52
+      },
+      {
+        "name": "hash-prd-crashcl-game-01",
+        "id": "i-032f37acb16addb36",
+        "type": "t3.micro",
+        "storage_gb": 50,
+        "compute_cost": 0,
+        "storage_cost": 4.6,
+        "total_cost": 4.6
+      },
+      {
+        "name": "hash-prd-limbocl-game-01",
+        "id": "i-0b85ce3ea96a5b500",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minesma-game-01",
+        "id": "i-041fe930a00b4846c",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-plinkogr-game-01",
+        "id": "i-08bf8092effb8383a",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-hilocl-game-01",
+        "id": "i-0105f1a8000ec7da7",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-aviator-game-01",
+        "id": "i-06e5b6cf890ce6442",
+        "type": "t3.small",
+        "storage_gb": 45,
+        "compute_cost": 0,
+        "storage_cost": 4.14,
+        "total_cost": 4.14
+      },
+      {
+        "name": "hash-prd-minesne-game-01",
+        "id": "i-0511d82c5c933fa11",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-hilone-game-01",
+        "id": "i-00937bc8403afe767",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "hash-prd-multihilo-game-01",
+        "id": "i-0af981b61159f93e0",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "hash-prd-crashne-game-01",
+        "id": "i-0d4f5fd402f9883eb",
+        "type": "t3.micro",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "hash-prd-limbone-game-01",
+        "id": "i-0ec1a99358ccfcb2b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-plinkone-game-01",
+        "id": "i-02ddad7444c255b88",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-bonus-game-01",
+        "id": "i-0df24cebcdac46537",
+        "type": "t3.medium",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-limbogr-game-01",
+        "id": "i-0171b57598332fc0e",
+        "type": "t3.micro",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-hilogr-game-01",
+        "id": "i-0360848b9a7d062b4",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "hash-prd-minesgr-game-01",
+        "id": "i-05ea349ce1fd8472f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-crashgr-game-01",
+        "id": "i-07232d0d96320e79a",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "hash-prd-luckydrop-game-01",
+        "id": "i-02f01e6fd455d3439",
+        "type": "t3.small",
+        "storage_gb": 25,
+        "compute_cost": 0,
+        "storage_cost": 2.3,
+        "total_cost": 2.3
+      },
+      {
+        "name": "bingo-prd-maple-game-01",
+        "id": "i-0971d2553116cfa63",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-luckydropcoc-game-01",
+        "id": "i-0ad3a5854fd8e887b",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minesraider-game-01",
+        "id": "i-0bb617c05e5e1bf63",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-luckyhilo-game-01",
+        "id": "i-04abe1e44976bd73f",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-dragontower-game-01",
+        "id": "i-0621f59337094a0b7",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-arcade-game-01",
+        "id": "i-0ac8019ed8584456a",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-luckydropgx-game-01",
+        "id": "i-08cbdfb42729a9138",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minesca-game-01",
+        "id": "i-01b50b93d76eb1df3",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-egghunt-game-01",
+        "id": "i-00bb69ea5bb291589",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "bingo-prd-steampunk2-game-01",
+        "id": "i-07311f5e21674e4a1",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minespm-game-01",
+        "id": "i-08b9001e30572d205",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-aviator2-game-01",
+        "id": "i-0df1ecc7c7f8bea69",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-minessc-game-01",
+        "id": "i-0fadf3a40054f0244",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "arcade-prd-multiboomers-game-01",
+        "id": "i-085d71f6e144818ea",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-egypthilo-game-01",
+        "id": "i-073dc09d1d2ae7660",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "arcade-prd-forestteaparty-game-01",
+        "id": "i-0c3bfa9e2ad5161ed",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-luckydropcoc2-game-01",
+        "id": "i-0358460fce5ffbcb3",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "arcade-prd-wilddiggr-game-01",
+        "id": "i-069b9b7a08c25656d",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "hash-prd-aviator2xin-game-01",
+        "id": "i-0ea1a2b608ab63afd",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      },
+      {
+        "name": "arcade-prd-goldenclover-game-01",
+        "id": "i-08b92241a8a14a2e0",
+        "type": "t3.small",
+        "storage_gb": 30,
+        "compute_cost": 0,
+        "storage_cost": 2.76,
+        "total_cost": 2.76
+      }
+    ],
+    "total_compute": 0,
+    "total_storage": 218.49999999999986,
+    "total": 218.49999999999986
+  },
+  "summary": {
+    "running_count": 34,
+    "stopped_count": 64,
+    "total_count": 98,
+    "running_monthly_cost": 3505.000000000001,
+    "stopped_monthly_cost": 218.49999999999986,
+    "total_monthly_cost": 3723.500000000001,
+    "potential_savings_if_all_stopped": 3068.9200000000005,
+    "cost_if_all_running": 5255.186,
+    "stopped_potential_compute_cost": 1531.6859999999986
+  },
+  "instance_type_count": {
+    "running": {
+      "t3.xlarge": 2,
+      "t3.small": 9,
+      "t3.large": 4,
+      "t3.medium": 4,
+      "t3.micro": 2,
+      "c5a.2xlarge": 1,
+      "c5a.xlarge": 12
+    },
+    "stopped": {
+      "t3.micro": 18,
+      "t3.medium": 4,
+      "c5.xlarge": 1,
+      "t3.large": 2,
+      "c5a.xlarge": 1,
+      "t3.small": 38
+    }
+  }
+}
