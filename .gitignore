@@ -42,3 +42,6 @@ temp/
 # Backup files
 *.bak
 *.backup
+
+# Claude Code local settings
+.claude/
