@@ -25,7 +25,8 @@
       "WebFetch(domain:confluence.ftgaming.cc)",
       "WebFetch(domain:iam.amazonaws.com)",
       "WebFetch(domain:logs.ap-east-1.amazonaws.com)",
-      "WebFetch(domain:api.ipify.org)"
+      "WebFetch(domain:api.ipify.org)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": []

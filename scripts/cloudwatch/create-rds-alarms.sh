@@ -236,13 +236,27 @@ create_alarm \
 # 2. 数据库负载告警
 echo -e "${BLUE}【2/9】数据库负载 (DBLoad) 告警${NC}"
 
-# DBLoad 阈值基于 vCPU 数量
-DBLOAD_WARNING=$(echo "$VCPUS * 1.5" | bc)
-DBLOAD_CRITICAL=$(echo "$VCPUS * 2" | bc)
+# DBLoad 阈值基于 vCPU 数量和实例类型
+# 2025-12-26 更新: 提高阈值以减少误报
+case "$INSTANCE_TYPE" in
+    *m6g.large*)
+        DBLOAD_WARNING=6.0
+        DBLOAD_CRITICAL=8.0
+        ;;
+    *t4g.medium*)
+        DBLOAD_WARNING=5.0
+        DBLOAD_CRITICAL=7.0
+        ;;
+    *)
+        # 默认使用 1.5x/2x vCPU (保守值)
+        DBLOAD_WARNING=$(echo "$VCPUS * 1.5" | bc)
+        DBLOAD_CRITICAL=$(echo "$VCPUS * 2" | bc)
+        ;;
+esac
 
 create_alarm \
     "RDS-${INSTANCE_ID}-HighDBLoad-Warning" \
-    "数据库负载超过 ${DBLOAD_WARNING} (1.5x vCPUs) 持续5分钟" \
+    "数据库负载超过 ${DBLOAD_WARNING} 持续5分钟" \
     "DBLoad" \
     "$DBLOAD_WARNING" \
     "GreaterThanThreshold" \
@@ -253,7 +267,7 @@ create_alarm \
 
 create_alarm \
     "RDS-${INSTANCE_ID}-HighDBLoad-Critical" \
-    "数据库负载超过 ${DBLOAD_CRITICAL} (2x vCPUs) 持续3分钟" \
+    "数据库负载超过 ${DBLOAD_CRITICAL} 持续3分钟" \
     "DBLoad" \
     "$DBLOAD_CRITICAL" \
     "GreaterThanThreshold" \
@@ -309,12 +323,28 @@ create_alarm \
 # 4. ReadIOPS 告警
 echo -e "${BLUE}【4/9】ReadIOPS 告警${NC}"
 
-# bingo-prd 基线约 500-600, 异常峰值 > 2000
+# 2025-12-26 更新: 根据实例类型和 Provisioned IOPS (12000) 设置阈值
+case "$INSTANCE_TYPE" in
+    *m6g.large*)
+        READIOPS_WARNING=8000
+        READIOPS_CRITICAL=10000
+        ;;
+    *t4g.medium*)
+        READIOPS_WARNING=4000
+        READIOPS_CRITICAL=5000
+        ;;
+    *)
+        # 默认值
+        READIOPS_WARNING=1500
+        READIOPS_CRITICAL=2000
+        ;;
+esac
+
 create_alarm \
     "RDS-${INSTANCE_ID}-HighReadIOPS-Warning" \
-    "ReadIOPS 超过 1500 持续5分钟" \
+    "ReadIOPS 超过 ${READIOPS_WARNING} 持续5分钟" \
     "ReadIOPS" \
-    1500 \
+    "$READIOPS_WARNING" \
     "GreaterThanThreshold" \
     5 \
     5 \
@@ -323,9 +353,9 @@ create_alarm \
 
 create_alarm \
     "RDS-${INSTANCE_ID}-HighReadIOPS-Critical" \
-    "ReadIOPS 超过 2000 持续3分钟 (异常高)" \
+    "ReadIOPS 超过 ${READIOPS_CRITICAL} 持续3分钟 (异常高)" \
     "ReadIOPS" \
-    2000 \
+    "$READIOPS_CRITICAL" \
     "GreaterThanThreshold" \
     3 \
     3 \
@@ -335,12 +365,28 @@ create_alarm \
 # 5. WriteIOPS 告警
 echo -e "${BLUE}【5/9】WriteIOPS 告警${NC}"
 
-# bingo-prd 基线约 800-950, 异常峰值 > 1500
+# 2025-12-26 更新: 根据实例类型设置阈值，避免备份触发误报
+case "$INSTANCE_TYPE" in
+    *m6g.large*)
+        WRITEIOPS_WARNING=7500
+        WRITEIOPS_CRITICAL=9000
+        ;;
+    *t4g.medium*)
+        WRITEIOPS_WARNING=4000
+        WRITEIOPS_CRITICAL=5000
+        ;;
+    *)
+        # 默认值
+        WRITEIOPS_WARNING=1200
+        WRITEIOPS_CRITICAL=1500
+        ;;
+esac
+
 create_alarm \
     "RDS-${INSTANCE_ID}-HighWriteIOPS-Warning" \
-    "WriteIOPS 超过 1200 持续5分钟" \
+    "WriteIOPS 超过 ${WRITEIOPS_WARNING} 持续5分钟" \
     "WriteIOPS" \
-    1200 \
+    "$WRITEIOPS_WARNING" \
     "GreaterThanThreshold" \
     5 \
     5 \
@@ -349,9 +395,9 @@ create_alarm \
 
 create_alarm \
     "RDS-${INSTANCE_ID}-HighWriteIOPS-Critical" \
-    "WriteIOPS 超过 1500 持续3分钟 (异常高)" \
+    "WriteIOPS 超过 ${WRITEIOPS_CRITICAL} 持续3分钟 (异常高)" \
     "WriteIOPS" \
-    1500 \
+    "$WRITEIOPS_CRITICAL" \
     "GreaterThanThreshold" \
     3 \
     3 \
@@ -400,11 +446,12 @@ create_alarm \
 # 8. ReadLatency 告警
 echo -e "${BLUE}【8/9】读延迟告警${NC}"
 
+# 2025-12-26 更新: 从 5ms 提高到 10ms，与 WriteLatency 标准统一
 create_alarm \
     "RDS-${INSTANCE_ID}-HighReadLatency" \
-    "读延迟超过 5ms 持续5分钟" \
+    "读延迟超过 10ms 持续5分钟" \
     "ReadLatency" \
-    0.005 \
+    0.010 \
     "GreaterThanThreshold" \
     5 \
     5 \
