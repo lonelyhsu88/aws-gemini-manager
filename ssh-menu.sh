@@ -45,23 +45,51 @@ declare -A KEY_NAME_MAP=(
 )
 
 # ============================================
+# SSH port mapping configuration
+# Instance name pattern -> Custom SSH port
+# Instances running services on port 22 (e.g., Docker-mapped GitLab)
+# require the host SSH to run on a different port
+# ============================================
+declare -A SSH_PORT_MAP=(
+    ["gemini-gitlab"]="50022"
+)
+
+# ============================================
+# Smart SSH port lookup function
+# ============================================
+get_ssh_port_for_instance() {
+    local instance_name="$1"
+
+    # Check exact name match in port map
+    if [ -n "${SSH_PORT_MAP[$instance_name]}" ]; then
+        echo "${SSH_PORT_MAP[$instance_name]}"
+        return
+    fi
+
+    # Default SSH port
+    echo "22"
+}
+
+# ============================================
 # Username mapping configuration
 # Instance name pattern -> SSH username
+# Uses contains-match so "gemini-gitlab" matches *gitlab*
 # ============================================
 get_ssh_user_for_instance() {
     local instance_name="$1"
 
     # Ubuntu instances (use ubuntu user)
+    # Use *pattern* for contains-match (not just prefix-match)
     case "$instance_name" in
-        JenkinsMaster*|jenkins-master*)
+        *[Jj]enkins[Mm]aster*|*jenkins-master*)
             echo "ubuntu"
             return
             ;;
-        Gitlab*|gitlab*)
-            echo "ubuntu"
+        *[Gg]itlab*)
+            echo "ec2-user"
             return
             ;;
-        OpenVPN*|openvpn*)
+        *[Oo]pen[Vv][Pp][Nn]*)
             echo "ubuntu"
             return
             ;;
@@ -243,6 +271,9 @@ do_ssh_connect() {
     # Smart SSH key lookup
     local ssh_key=$(find_ssh_key "$selected_key_name" "$selected_name")
 
+    # Smart SSH port lookup
+    local ssh_port=$(get_ssh_port_for_instance "$selected_name")
+
     # Validate SSH key
     if [ ! -f "$ssh_key" ]; then
         echo -e "${RED}Error: SSH key not found: $ssh_key${NC}"
@@ -299,6 +330,9 @@ do_ssh_connect() {
     echo -e "  IP: ${CYAN}$target_ip${NC} ${YELLOW}($connection_type)${NC}"
     echo -e "  User: ${CYAN}$ssh_user${NC} ${YELLOW}(auto-detected)${NC}"
     echo -e "  Key: ${CYAN}$ssh_key${NC}"
+    if [ "$ssh_port" != "22" ]; then
+        echo -e "  Port: ${CYAN}$ssh_port${NC} ${YELLOW}(custom)${NC}"
+    fi
 
     # Show key mapping info (if using mapping)
     if [ -n "${KEY_NAME_MAP[$selected_key_name]}" ]; then
@@ -320,8 +354,9 @@ do_ssh_connect() {
     echo -e "${BOLD}${GREEN}Connecting...${NC}"
     echo ""
 
-    # SSH options: connection multiplexing
+    # SSH options: connection multiplexing + custom port
     ssh -i "$ssh_key" \
+        -p "$ssh_port" \
         -o StrictHostKeyChecking=no \
         -o UserKnownHostsFile=/dev/null \
         -o ControlMaster=auto \
