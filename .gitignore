@@ -45,3 +45,7 @@ temp/
 
 # Claude Code local settings
 .claude/
+
+# MCP server state files
+.claude-flow/
+.swarm/
