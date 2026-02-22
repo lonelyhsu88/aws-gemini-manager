@@ -1,0 +1,17 @@
+{
+  "Rules": [
+    {
+      "ID": "cleanup-builds-90days",
+      "Status": "Enabled",
+      "Filter": {
+        "Prefix": ""
+      },
+      "Expiration": {
+        "Days": 90
+      },
+      "NoncurrentVersionExpiration": {
+        "NoncurrentDays": 30
+      }
+    }
+  ]
+}
