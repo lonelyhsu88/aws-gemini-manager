@@ -1,0 +1,256 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'RDS Storage Space Monitoring for bingo-prd instances - CloudWatch Alarms and SNS Notifications'
+
+Parameters:
+  AlertEmail:
+    Type: String
+    Description: Email address to receive storage alerts
+    Default: lonely.h@jvd.tw
+    AllowedPattern: ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+    ConstraintDescription: Must be a valid email address
+
+  BingoPrdStorageGB:
+    Type: Number
+    Description: Current allocated storage for bingo-prd in GB
+    Default: 2750
+    MinValue: 100
+    MaxValue: 10000
+
+  BingoPrdReplica1StorageGB:
+    Type: Number
+    Description: Current allocated storage for bingo-prd-replica1 in GB
+    Default: 2929
+    MinValue: 100
+    MaxValue: 10000
+
+  AlertThresholdPercent:
+    Type: Number
+    Description: Alert when free storage drops below this percentage
+    Default: 15
+    MinValue: 5
+    MaxValue: 50
+
+Metadata:
+  AWS::CloudFormation::Interface:
+    ParameterGroups:
+      - Label:
+          default: "Notification Settings"
+        Parameters:
+          - AlertEmail
+          - AlertThresholdPercent
+      - Label:
+          default: "RDS Instance Storage Configuration"
+        Parameters:
+          - BingoPrdStorageGB
+          - BingoPrdReplica1StorageGB
+
+    ParameterLabels:
+      AlertEmail:
+        default: "Alert Email Address"
+      AlertThresholdPercent:
+        default: "Alert Threshold (%)"
+      BingoPrdStorageGB:
+        default: "bingo-prd Storage (GB)"
+      BingoPrdReplica1StorageGB:
+        default: "bingo-prd-replica1 Storage (GB)"
+
+Resources:
+  # SNS Topic for Storage Alerts
+  StorageAlertTopic:
+    Type: AWS::SNS::Topic
+    Properties:
+      TopicName: rds-storage-autoscaling-alerts
+      DisplayName: RDS Storage Autoscaling Alerts
+      Tags:
+        - Key: Environment
+          Value: Production
+        - Key: Service
+          Value: RDS
+        - Key: Alert
+          Value: Storage
+        - Key: ManagedBy
+          Value: CloudFormation
+        - Key: StackName
+          Value: !Ref AWS::StackName
+
+  # Email Subscription
+  EmailSubscription:
+    Type: AWS::SNS::Subscription
+    Properties:
+      Protocol: email
+      TopicArn: !Ref StorageAlertTopic
+      Endpoint: !Ref AlertEmail
+
+  # CloudWatch Alarm for bingo-prd
+  BingoPrdStorageAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmName: bingo-prd-storage-low-space
+      AlarmDescription: !Sub |
+        Alert when bingo-prd free storage space < ${AlertThresholdPercent}% (approaching autoscaling threshold of 10%)
+
+        Current Configuration:
+        - Allocated Storage: ${BingoPrdStorageGB} GB
+        - Alert Threshold: ${AlertThresholdPercent}% (${BingoPrdThresholdGB} GB)
+        - Autoscaling Threshold: 10% (${BingoPrdAutoscalingGB} GB)
+
+        This alarm triggers before autoscaling to provide advance warning.
+
+      MetricName: FreeStorageSpace
+      Namespace: AWS/RDS
+      Statistic: Average
+      Period: 300  # 5 minutes
+      EvaluationPeriods: 2  # Must be below threshold for 10 minutes
+      Threshold: !Ref BingoPrdThresholdBytes
+      ComparisonOperator: LessThanThreshold
+      Dimensions:
+        - Name: DBInstanceIdentifier
+          Value: bingo-prd
+
+      AlarmActions:
+        - !Ref StorageAlertTopic
+      OKActions:
+        - !Ref StorageAlertTopic
+
+      TreatMissingData: notBreaching
+
+      Tags:
+        - Key: Instance
+          Value: bingo-prd
+        - Key: AlertType
+          Value: Storage
+        - Key: ManagedBy
+          Value: CloudFormation
+
+  # CloudWatch Alarm for bingo-prd-replica1
+  BingoPrdReplica1StorageAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmName: bingo-prd-replica1-storage-low-space
+      AlarmDescription: !Sub |
+        Alert when bingo-prd-replica1 free storage space < ${AlertThresholdPercent}% (approaching autoscaling threshold of 10%)
+
+        Current Configuration:
+        - Allocated Storage: ${BingoPrdReplica1StorageGB} GB
+        - Alert Threshold: ${AlertThresholdPercent}% (${BingoPrdReplica1ThresholdGB} GB)
+        - Autoscaling Threshold: 10% (${BingoPrdReplica1AutoscalingGB} GB)
+
+        This alarm triggers before autoscaling to provide advance warning.
+
+      MetricName: FreeStorageSpace
+      Namespace: AWS/RDS
+      Statistic: Average
+      Period: 300  # 5 minutes
+      EvaluationPeriods: 2  # Must be below threshold for 10 minutes
+      Threshold: !Ref BingoPrdReplica1ThresholdBytes
+      ComparisonOperator: LessThanThreshold
+      Dimensions:
+        - Name: DBInstanceIdentifier
+          Value: bingo-prd-replica1
+
+      AlarmActions:
+        - !Ref StorageAlertTopic
+      OKActions:
+        - !Ref StorageAlertTopic
+
+      TreatMissingData: notBreaching
+
+      Tags:
+        - Key: Instance
+          Value: bingo-prd-replica1
+        - Key: AlertType
+          Value: Storage
+        - Key: ManagedBy
+          Value: CloudFormation
+
+  # Calculated Parameters (using CloudFormation intrinsic functions)
+  # Note: CloudFormation doesn't support mathematical operations in Parameters,
+  # so we calculate these in the Mappings section
+
+  # Helper Lambda for calculations (optional, for complex scenarios)
+  # For now, we'll use pre-calculated values in the script
+
+# Mappings for threshold calculations (GB to Bytes conversion)
+Mappings:
+  StorageCalculations:
+    Constants:
+      BytesPerGB: 1073741824  # 1024^3
+      AutoscalingPercent: 10
+
+# Calculated values as Outputs for reference
+Outputs:
+  SNSTopicArn:
+    Description: SNS Topic ARN for storage alerts
+    Value: !Ref StorageAlertTopic
+    Export:
+      Name: !Sub '${AWS::StackName}-SNS-Topic-ARN'
+
+  BingoPrdAlarmName:
+    Description: CloudWatch Alarm name for bingo-prd
+    Value: !Ref BingoPrdStorageAlarm
+
+  BingoPrdReplica1AlarmName:
+    Description: CloudWatch Alarm name for bingo-prd-replica1
+    Value: !Ref BingoPrdReplica1StorageAlarm
+
+  EmailSubscriptionEndpoint:
+    Description: Email address receiving alerts
+    Value: !Ref AlertEmail
+
+  BingoPrdThresholdGB:
+    Description: bingo-prd alert threshold in GB
+    Value: !Ref BingoPrdThresholdGB
+
+  BingoPrdReplica1ThresholdGB:
+    Description: bingo-prd-replica1 alert threshold in GB
+    Value: !Ref BingoPrdReplica1ThresholdGB
+
+  ConsoleURL:
+    Description: CloudWatch Alarms Console URL
+    Value: !Sub 'https://console.aws.amazon.com/cloudwatch/home?region=${AWS::Region}#alarmsV2:'
+
+  Instructions:
+    Description: Next steps after deployment
+    Value: |
+      1. Check your email and confirm SNS subscription
+      2. Monitor alarms in CloudWatch console
+      3. Alarms will trigger when free storage < 15%
+      4. Update stack parameters when storage autoscaling occurs
+
+# Pre-calculated threshold values (as separate parameters for clarity)
+Parameters:
+  BingoPrdThresholdGB:
+    Type: Number
+    Description: DO NOT MODIFY - Calculated from BingoPrdStorageGB * AlertThresholdPercent / 100
+    Default: 412.5
+    MinValue: 0
+
+  BingoPrdThresholdBytes:
+    Type: Number
+    Description: DO NOT MODIFY - BingoPrdThresholdGB in bytes
+    Default: 442654720000  # 412.5 GB in bytes
+    MinValue: 0
+
+  BingoPrdAutoscalingGB:
+    Type: Number
+    Description: DO NOT MODIFY - Autoscaling threshold (10% of BingoPrdStorageGB)
+    Default: 275
+    MinValue: 0
+
+  BingoPrdReplica1ThresholdGB:
+    Type: Number
+    Description: DO NOT MODIFY - Calculated from BingoPrdReplica1StorageGB * AlertThresholdPercent / 100
+    Default: 439.35
+    MinValue: 0
+
+  BingoPrdReplica1ThresholdBytes:
+    Type: Number
+    Description: DO NOT MODIFY - BingoPrdReplica1ThresholdGB in bytes
+    Default: 471669964800  # 439.35 GB in bytes
+    MinValue: 0
+
+  BingoPrdReplica1AutoscalingGB:
+    Type: Number
+    Description: DO NOT MODIFY - Autoscaling threshold (10% of BingoPrdReplica1StorageGB)
+    Default: 292.9
+    MinValue: 0
