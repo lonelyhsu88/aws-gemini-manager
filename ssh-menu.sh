@@ -1,10 +1,23 @@
-#!/opt/homebrew/bin/bash
+#!/usr/bin/env bash
 
 #############################################
-# AWS EC2 SSH Interactive Login Script v2.1
+# AWS EC2 SSH Interactive Login Script v2.2
 # Purpose: Quick select and connect to AWS EC2 instances
 # Features: Command-line arguments, Smart IP selection, SSH multiplexing
 #############################################
+
+# Check Bash version (requires 4.0+ for associative arrays)
+if ((BASH_VERSINFO[0] < 4)); then
+    echo "❌ Error: This script requires Bash 4.0 or higher (current: $BASH_VERSION)"
+    echo ""
+    echo "Solutions:"
+    echo "  macOS: brew install bash"
+    echo "  Linux: Usually pre-installed, or use: apt-get install bash / yum install bash"
+    echo ""
+    echo "Then run with explicit path or update your PATH:"
+    echo "  /usr/local/bin/bash $0"
+    exit 1
+fi
 
 # Color definitions
 RED='\033[0;31m'
@@ -52,6 +65,16 @@ declare -A KEY_NAME_MAP=(
 # ============================================
 declare -A SSH_PORT_MAP=(
     ["gemini-gitlab"]="50022"
+)
+
+# ============================================
+# Instance-specific SSH key override
+# When AWS KeyName metadata doesn't match the
+# actual authorized_keys on the server
+# Instance name -> Override key file name
+# ============================================
+declare -A INSTANCE_KEY_OVERRIDE=(
+    ["gemini-jenkins-slave-01"]="hk-dev.pem"
 )
 
 # ============================================
@@ -105,6 +128,16 @@ get_ssh_user_for_instance() {
 find_ssh_key() {
     local key_name="$1"
     local instance_name="$2"
+
+    # Check instance-specific key override first
+    # (for cases where AWS KeyName doesn't match actual authorized_keys)
+    if [ -n "${INSTANCE_KEY_OVERRIDE[$instance_name]}" ]; then
+        local override_key="$SSH_KEY_DIR/${INSTANCE_KEY_OVERRIDE[$instance_name]}"
+        if [ -f "$override_key" ]; then
+            echo "$override_key"
+            return
+        fi
+    fi
 
     # If KeyName is empty or N/A, return default key
     if [ "$key_name" == "N/A" ] || [ -z "$key_name" ]; then
@@ -335,7 +368,9 @@ do_ssh_connect() {
     fi
 
     # Show key mapping info (if using mapping)
-    if [ -n "${KEY_NAME_MAP[$selected_key_name]}" ]; then
+    if [ -n "${INSTANCE_KEY_OVERRIDE[$selected_name]}" ]; then
+        echo -e "  ${YELLOW}ℹ Key override: $selected_name → ${INSTANCE_KEY_OVERRIDE[$selected_name]}${NC}"
+    elif [ -n "${KEY_NAME_MAP[$selected_key_name]}" ]; then
         echo -e "  ${YELLOW}ℹ Key mapping: $selected_key_name → ${KEY_NAME_MAP[$selected_key_name]}${NC}"
     fi
 
